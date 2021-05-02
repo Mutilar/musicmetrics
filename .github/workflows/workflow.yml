@@ -1,4 +1,4 @@
-name: Generate README every 1 hour
+name: Generate music metrics README every 1 hour
 
 on:
   push:
@@ -44,7 +44,7 @@ jobs:
         run: |
           python figures/generate_feature_figures.py
 
-      - name: Push to remote
+      - name: Git
         run: |
           git add .
           git config --global user.name "GitHub Action"

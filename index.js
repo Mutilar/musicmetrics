@@ -70,8 +70,8 @@ async function main() {
     .replace("{sp_abl}", sp_abl)
     .replace("{sp_pl}", sp_pl)
      // Hardcoded for now, will add to PP module for better formatting.
-    .replace("{sp_artists}", sp_artists[0]['name'] + '\n\t' + sp_artists[1]['name'] + '\n\t' + sp_artists[2]['name'])
-    .replace("{sp_tracks}", sp_tracks[0]['name'] + '\n\t' + sp_tracks[1]['name'] + '\n\t' + sp_tracks[2]['name'])
+    .replace("{sp_artists}", sp_artists[0]['name'] + ', ' + sp_artists[1]['name'] + ', ' + sp_artists[2]['name'])
+    .replace("{sp_tracks}", sp_tracks[0]['name'] + ', ' + sp_tracks[1]['name'] + ', ' + sp_tracks[2]['name'])
 
   await fs.writeFile("README.md", readme);
 }
