@@ -63,6 +63,14 @@ async function main() {
     })
   ).json();
 
+  const { item: sp_current } = await (
+    await fetch("https://api.spotify.com/v1/me/player", {
+      headers: {
+        Authorization: `Bearer ${access_token}`,
+      },
+    })
+  ).json();
+
   // TODO: Call post processing on outputs here.
   const readme = readmeTemplate
     .replace("{sp_liked}", sp_liked)
@@ -71,6 +79,7 @@ async function main() {
      // Hardcoded for now, will add to PP module for better formatting.
     .replace("{sp_artists}", '![artists](' + sp_artists[0]['images'][2]['url'] + ')' + ' ' + '![artists](' + sp_artists[1]['images'][2]['url'] + ')' + ' ' + '![artists](' + sp_artists[2]['images'][2]['url'] + ')')
     //.replace("{sp_tracks}", sp_tracks[0]['name'] + '\n\n\t' + sp_tracks[1]['name'] + '\n\n\t' + sp_tracks[2]['name'] + '\n\n\t')
+    .replace("{sp_current}", sp_current['artists'][0]['name'] + ' - ' + sp_current['name'])
 
   await fs.writeFile("README.md", readme);
 }

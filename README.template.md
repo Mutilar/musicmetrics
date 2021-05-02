@@ -6,6 +6,8 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
+- currently listening to **{sp_current}**
+
 - **{sp_liked}** liked songs
 - **{sp_pl}** playlists
 
