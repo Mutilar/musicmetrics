@@ -10,13 +10,9 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-### I like 
-
-    3098 songs
-    
 ### I have
 
-     32 playlists
+    3098 liked songs and 32 playlists
 
 ### My top artists in the last 4 weeks are
 
