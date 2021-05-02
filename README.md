@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **COTIS - Reasons**
+- currently listening to **Jutes - When You're Around**
 
 - **3098** liked songs
 - **32** playlists
