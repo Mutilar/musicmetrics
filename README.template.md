@@ -11,7 +11,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 - **{sp_liked}** liked songs
 - **{sp_pl}** playlists
 
-- current top artists: 
+- top artists: 
 
     {sp_artists}
 

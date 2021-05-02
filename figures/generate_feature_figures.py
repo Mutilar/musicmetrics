@@ -28,4 +28,4 @@ for ax, s in zip(axes.flat, np.linspace(0, 3, 10)):
 
 ax.set(xlim=(-3.5, 3.5), ylim=(-3.5, 3.5))
 f.subplots_adjust(0, 0, 1, 1, .08, .08)
-f.savefig('test.png')
+f.savefig('figures/test.png')

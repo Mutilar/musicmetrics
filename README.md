@@ -17,4 +17,4 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 <br></br>
 
-auto readme code from [here](https://github.com/gargakshit/gargakshit)
+actions readme code [here](https://github.com/gargakshit/gargakshit)
