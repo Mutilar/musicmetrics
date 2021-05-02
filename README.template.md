@@ -6,10 +6,12 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-### I have **{sp_liked}** liked songs and **{sp_pl}** playlists
+I have **{sp_liked}** liked songs and **{sp_pl}** playlists
 
-### My top artists in the last 4 weeks are **{sp_artists}**
+My top artists in the last 4 weeks are **{sp_artists}**
 
-### My top tracks in the last 4 weeks are **{sp_tracks}**
+My top tracks in the last 4 weeks are **{sp_tracks}**
 
-[readme code adopted from here](https://github.com/gargakshit/gargakshit)
+<br>
+
+readme code [here](https://github.com/gargakshit/gargakshit)

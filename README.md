@@ -12,4 +12,4 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ### My top tracks in the last 4 weeks are **PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne], With It (Acoustic) [Bonus Track], Close Your Eyes**
 
-[readme code adopted from here](https://github.com/gargakshit/gargakshit)
+readme code [here](https://github.com/gargakshit/gargakshit)
