@@ -10,13 +10,9 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-### I like 
-
-    {sp_liked} songs
-    
 ### I have
 
-    {sp_pl} playlists
+    {sp_liked} liked songs and {sp_pl} playlists
 
 ### My top artists in the last 4 weeks are
 
