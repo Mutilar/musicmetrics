@@ -6,11 +6,12 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-I have **{sp_liked}** liked songs and **{sp_pl}** playlists
+- **{sp_liked}** liked songs
+- **{sp_pl}** playlists
 
-My top artists in the last 4 weeks are **{sp_artists}**
+- current top artists: **{sp_artists}**
 
-My top tracks in the last 4 weeks are **{sp_tracks}**
+- current top tracks: **{sp_tracks}**
 
 <br>
 
