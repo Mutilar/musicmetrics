@@ -9,10 +9,10 @@ This is an ongoing collection of statistics about my music listening activity fr
 - **3098** liked songs
 - **32** playlists
 
-- current top artists: **Chase Atlantic, Pop Smoke, Always Never**
+- current top artists: 
 
-- current top tracks: **PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne], With It (Acoustic) [Bonus Track], Close Your Eyes**
+    ![artists](https://i.scdn.co/image/27717d74f3ecaa7dd1a72efb1e581674e3dbc593) ![artists](https://i.scdn.co/image/4d68f134b9ccfc7b9c22b4ed0abc98dccecc5fb2) ![artists](https://i.scdn.co/image/72cf4f4b7b37ffc2d954a6124b245a1faecb980c)
 
-<br>
+<br></br>
 
-readme code [here](https://github.com/gargakshit/gargakshit)
+auto readme code from [here](https://github.com/gargakshit/gargakshit)

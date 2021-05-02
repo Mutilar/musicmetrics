@@ -9,10 +9,10 @@ This is an ongoing collection of statistics about my music listening activity fr
 - **{sp_liked}** liked songs
 - **{sp_pl}** playlists
 
-- current top artists: **{sp_artists}**
+- current top artists: 
 
-- current top tracks: **{sp_tracks}**
+    {sp_artists}
 
-<br>
+<br></br>
 
-readme code [here](https://github.com/gargakshit/gargakshit)
+auto readme code from [here](https://github.com/gargakshit/gargakshit)
