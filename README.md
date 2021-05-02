@@ -6,10 +6,12 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-### I have **3098** liked songs and **32** playlists
+I have **3098** liked songs and **32** playlists
 
-### My top artists in the last 4 weeks are **Chase Atlantic, Pop Smoke, Always Never**
+My top artists in the last 4 weeks are **Chase Atlantic, Pop Smoke, Always Never**
 
-### My top tracks in the last 4 weeks are **PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne], With It (Acoustic) [Bonus Track], Close Your Eyes**
+My top tracks in the last 4 weeks are **PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne], With It (Acoustic) [Bonus Track], Close Your Eyes**
+
+<br>
 
 readme code [here](https://github.com/gargakshit/gargakshit)
