@@ -42,7 +42,7 @@ jobs:
       
       - name: Generate plots
         run: |
-          python figures/figures.py
+          python figures/generate_feature_figures.py
 
       - name: Push to remote
         run: |
