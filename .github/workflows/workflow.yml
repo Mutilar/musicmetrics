@@ -8,11 +8,16 @@ on:
 
 jobs:
   stuff:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-
+    strategy:
+      matrix:
+        python-version: [3.8.5]
+
+
     steps:
       - uses: actions/checkout@v2
 
-      - name: Let the magic happen
+      - name: Get Spotify data
         uses: actions/setup-node@v1
         with:
           node-version: 14.6.0
@@ -25,7 +30,21 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
-      - name: Add to git repo
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy seaborn matplotlib
+      
+      - name: Generate plots
+        run: |
+          python figures/figures.py
+
+      - name: Push to remote
         run: |
           git add .
           git config --global user.name "GitHub Action"
