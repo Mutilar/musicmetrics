@@ -6,8 +6,6 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 <sup>1+2</sup> *coming soon*
 
-<br>
-
 ## Spotify
 
 ### I have
