@@ -16,7 +16,7 @@ This is an ongoing collection of statistics about my music listening activity fr
     
 ### I have
 
-     {sp_pl} playlists
+    {sp_pl} playlists
 
 ### My top artists in the last 4 weeks are
 
