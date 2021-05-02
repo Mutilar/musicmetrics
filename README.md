@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Monophonics - La La La Love Me**
+- currently listening to **Big Sean - Paradise - Extended**
 
 - **3098** liked songs
 - **32** playlists
