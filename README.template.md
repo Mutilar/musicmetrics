@@ -1,4 +1,4 @@
-[Code adopted from](https://github.com/gargakshit/gargakshit)
+[Code adopted from here](https://github.com/gargakshit/gargakshit)
 
 # Music Metrics
 
