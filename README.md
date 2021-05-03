@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Halsey - You should be sad**
+- currently listening to **Kavinsky - Odd Look**
 
 - **3098** liked songs
 - **32** playlists
