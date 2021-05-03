@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Sage The Gemini - Gas Pedal**
+- currently listening to **Brennan Savage - To the Moon**
 
 - **3098** liked songs
 - **32** playlists
