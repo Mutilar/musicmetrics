@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Ansel Elgort - Supernova**
+- currently listening to **ZHU - Sweet Like Honey**
 
 - **3098** liked songs
 - **32** playlists
