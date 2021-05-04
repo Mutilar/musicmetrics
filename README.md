@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Sidmfkid - Scotty**
+- currently listening to **ZHU - Sky Is Crying**
 
 - **3098** liked songs
 - **32** playlists
