@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **The Neighbourhood - Reflections**
+- currently listening to **Lil Peep - skyscrapers (love now, cry later)**
 
 - **3098** liked songs
 - **31** playlists
