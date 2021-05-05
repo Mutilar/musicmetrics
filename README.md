@@ -9,7 +9,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 - currently listening to **ZHU - Sky Is Crying**
 
 - **3098** liked songs
-- **32** playlists
+- **31** playlists
 
 - top artists: 
 
