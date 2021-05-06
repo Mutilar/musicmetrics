@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Halsey - Ghost**
+- currently listening to **Mary Gu - Не любила (feat. Драгни)**
 
 - **3098** liked songs
 - **31** playlists
