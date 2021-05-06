@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Mary Gu - Не любила (feat. Драгни)**
+- currently listening to **Bastille - Bad Blood**
 
 - **3098** liked songs
 - **31** playlists
