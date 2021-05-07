@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **The Weeknd - Snowchild**
+- currently listening to **Shoreline Mafia - Mind Right (feat. Warhol.SS)**
 
 - **3098** liked songs
 - **31** playlists
