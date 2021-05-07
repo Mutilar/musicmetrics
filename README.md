@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - The Walls**
+- currently listening to **The Weeknd - Snowchild**
 
 - **3098** liked songs
 - **31** playlists
