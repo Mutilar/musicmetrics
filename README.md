@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **PLAZA - Love You Again**
+- currently listening to **The Notorious B.I.G. - Warning - 2005 Remaster**
 
 - **3098** liked songs
 - **31** playlists
