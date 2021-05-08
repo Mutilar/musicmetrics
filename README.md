@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **PARTYNEXTDOOR - Recognize (feat. Drake)**
+- currently listening to **Jon Bellion - Blu**
 
 - **3098** liked songs
 - **31** playlists
