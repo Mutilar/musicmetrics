@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Jon Bellion - Blu**
+- currently listening to **Hoodie Allen - Long Night (feat. Chance the Rapper)**
 
 - **3098** liked songs
 - **31** playlists
