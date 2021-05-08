@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Hoodie Allen - Long Night (feat. Chance the Rapper)**
+- currently listening to **Hoodie Allen - No Interruption**
 
 - **3098** liked songs
 - **31** playlists
