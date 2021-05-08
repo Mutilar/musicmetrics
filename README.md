@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **The Notorious B.I.G. - Warning - 2005 Remaster**
+- currently listening to **Paul Anka - Put Your Head on My Shoulder**
 
 - **3098** liked songs
 - **31** playlists
