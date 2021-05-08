@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Shoreline Mafia - Mind Right (feat. Warhol.SS)**
+- currently listening to **PARTYNEXTDOOR - Recognize (feat. Drake)**
 
 - **3098** liked songs
 - **31** playlists
