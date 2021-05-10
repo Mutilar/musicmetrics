@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - Keep It Up**
+- currently listening to **G-Eazy - Bone Marrow (feat. Danny Seth)**
 
 - **3098** liked songs
 - **31** playlists
