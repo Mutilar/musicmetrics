@@ -6,9 +6,9 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - SLIDE**
+- currently listening to **Germ - Hellcat**
 
-- **3098** liked songs
+- **3099** liked songs
 - **31** playlists
 
 - top artists: 
