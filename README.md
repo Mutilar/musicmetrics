@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Always Never - Ruok**
+- currently listening to **TENDER - Outside**
 
 - **3099** liked songs
 - **31** playlists
