@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **mike. - i don't wanna party**
+- currently listening to **BANKS - Contaminated**
 
 - **3099** liked songs
 - **31** playlists
