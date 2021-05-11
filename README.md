@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Anfa Rose - Casa**
+- currently listening to **12AM - Couple Pills**
 
 - **3099** liked songs
 - **31** playlists
