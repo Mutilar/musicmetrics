@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **12AM - Couple Pills**
+- currently listening to **mike. - i don't wanna party**
 
 - **3099** liked songs
 - **31** playlists
