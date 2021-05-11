@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Jaden - BACK ON MY SH*T**
+- currently listening to **Pop Smoke - Welcome To The Party**
 
 - **3099** liked songs
 - **31** playlists
