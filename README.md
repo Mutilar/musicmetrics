@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **DUSTY LOCANE - ROLLIN N CONTROLLIN FREESTYLE**
+- currently listening to **50 Cent - Candy Shop**
 
 - **3099** liked songs
 - **31** playlists
