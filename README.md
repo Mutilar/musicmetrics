@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **TENDER - Outside**
+- currently listening to **Chase Atlantic - SLIDE**
 
 - **3099** liked songs
 - **31** playlists
