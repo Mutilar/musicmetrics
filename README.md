@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Jon Bellion - Human - Acoustic**
+- currently listening to **Always Never - I Tried**
 
 - **3099** liked songs
 - **31** playlists
