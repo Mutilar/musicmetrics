@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **ZHU - As Crazy As It Is**
+- currently listening to **The Weeknd - The Hills**
 
 - **3099** liked songs
 - **31** playlists
