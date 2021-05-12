@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Bryson Tiller - Right My Wrongs**
+- currently listening to **Paramore - Still into You**
 
 - **3099** liked songs
 - **31** playlists
