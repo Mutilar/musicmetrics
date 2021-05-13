@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Pop Smoke - Feeling**
+- currently listening to **Drake - Wants and Needs (feat. Lil Baby)**
 
 - **3099** liked songs
 - **31** playlists
