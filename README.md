@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Tinashe - 2 On (feat. ScHoolboy Q)**
+- currently listening to **G-Eazy - Remember You (feat. Blackbear)**
 
 - **3099** liked songs
 - **31** playlists
