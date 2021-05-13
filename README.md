@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **6LACK - ATL Freestyle**
+- currently listening to **The Weeknd - Call Out My Name**
 
 - **3099** liked songs
 - **31** playlists
