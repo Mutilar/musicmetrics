@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **The Weeknd - Call Out My Name**
+- currently listening to **Jaden - PCH**
 
 - **3099** liked songs
 - **31** playlists
