@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Jaden - PCH**
+- currently listening to **Tory Lanez - Acting Like**
 
 - **3099** liked songs
 - **31** playlists
