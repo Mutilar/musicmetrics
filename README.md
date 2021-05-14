@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **OZZIE - FRZZN**
+- currently listening to **Black Atlass - Sin City**
 
 - **3099** liked songs
 - **31** playlists
