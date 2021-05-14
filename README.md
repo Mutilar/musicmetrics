@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Halsey - Empty Gold**
+- currently listening to **Chase Atlantic - PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne]**
 
 - **3099** liked songs
 - **31** playlists
