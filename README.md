@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **You Me At Six - Take on the World**
+- currently listening to **Action Bronson - Easy Rider**
 
 - **3099** liked songs
 - **31** playlists
