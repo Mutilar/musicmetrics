@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **J. Cole - p r i d e . i s . t h e . d e v i l**
+- currently listening to **You Me At Six - Take on the World**
 
 - **3099** liked songs
 - **31** playlists
