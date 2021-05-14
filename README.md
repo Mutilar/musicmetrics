@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Tory Lanez - Acting Like**
+- currently listening to **iann dior - Sick and Tired (ft. Machine Gun Kelly and Travis Barker)**
 
 - **3099** liked songs
 - **31** playlists
