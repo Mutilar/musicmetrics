@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **iann dior - Sick and Tired (ft. Machine Gun Kelly and Travis Barker)**
+- currently listening to **Always Never - Take Me Back in Time**
 
 - **3099** liked songs
 - **31** playlists
