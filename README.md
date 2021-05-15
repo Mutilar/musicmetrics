@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **SAINt JHN - Roses - Imanbek Remix**
+- currently listening to **OZZIE - FRZZN**
 
 - **3099** liked songs
 - **31** playlists
