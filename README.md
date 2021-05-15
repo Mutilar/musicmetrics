@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **ford. - The Feeling**
+- currently listening to **Darci - On My Own**
 
 - **3099** liked songs
 - **31** playlists
