@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **SAINt JHN - Sucks To Be You**
+- currently listening to **ZHU - Superfriends**
 
 - **3099** liked songs
 - **31** playlists
