@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Eli Sostre - Made It (Can't Stay)**
+- currently listening to **Scriptonite - Прям с утра**
 
 - **3099** liked songs
 - **31** playlists
