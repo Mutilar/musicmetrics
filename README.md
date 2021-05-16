@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Darci - On My Own**
+- currently listening to **Eli Sostre - Made It (Can't Stay)**
 
 - **3099** liked songs
 - **31** playlists
