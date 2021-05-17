@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Drake - Jumpman**
+- currently listening to **Kid Cudi - Pursuit Of Happiness (Nightmare)**
 
 - **3099** liked songs
 - **31** playlists
