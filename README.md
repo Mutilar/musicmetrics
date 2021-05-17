@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Kid Cudi - Tequila Shots**
+- currently listening to **Greta Van Fleet - Safari Song**
 
 - **3099** liked songs
 - **31** playlists
