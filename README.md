@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Kid Cudi - Pursuit Of Happiness (Nightmare)**
+- currently listening to **Kid Cudi - King Wizard**
 
 - **3099** liked songs
 - **31** playlists
