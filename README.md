@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Greta Van Fleet - Safari Song**
+- currently listening to **Action Bronson - Dmtri**
 
 - **3099** liked songs
 - **31** playlists
