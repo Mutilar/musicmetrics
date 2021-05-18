@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Action Bronson - Dmtri**
+- currently listening to **Azizi Gibson - Matrix Slave Ship**
 
 - **3099** liked songs
 - **31** playlists
