@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Germ - Hellcat**
+- currently listening to **YUNGBLUD - 11 Minutes (with Halsey feat. Travis Barker)**
 
 - **3099** liked songs
 - **31** playlists
