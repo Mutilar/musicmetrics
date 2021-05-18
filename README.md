@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **The Weeknd - The Morning**
+- currently listening to **Bruno Mars - Talking to the Moon**
 
 - **3099** liked songs
 - **31** playlists
