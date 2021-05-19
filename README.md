@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Trinidad James - Just A Lil' Thick (She Juicy) (feat. Mystikal & Lil Dicky)**
+- currently listening to **Kavinsky - Nightcall**
 
 - **3099** liked songs
 - **31** playlists
