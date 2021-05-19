@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Meek Mill - R.I.C.O. (feat. Drake)**
+- currently listening to **The Weeknd - Acquainted**
 
 - **3099** liked songs
 - **31** playlists
