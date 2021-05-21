@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Paul Anka - Put Your Head on My Shoulder**
+- currently listening to **Azizi Gibson - Crown Violet - Bonus Track**
 
 - **3099** liked songs
 - **31** playlists
