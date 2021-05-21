@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Snoop Dogg - Boss' Life**
+- currently listening to **KYLE - Not the Same**
 
 - **3099** liked songs
 - **32** playlists
