@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Azizi Gibson - Crown Violet - Bonus Track**
+- currently listening to **Black Atlass - By My Side (with Sonia)**
 
 - **3099** liked songs
 - **31** playlists
