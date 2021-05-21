@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **TroyBoi - B.I.A**
+- currently listening to **Paul Anka - Put Your Head on My Shoulder**
 
 - **3099** liked songs
 - **31** playlists
