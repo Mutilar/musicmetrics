@@ -6,10 +6,10 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Black Atlass - By My Side (with Sonia)**
+- currently listening to **Snoop Dogg - Boss' Life**
 
 - **3099** liked songs
-- **31** playlists
+- **32** playlists
 
 - top artists: 
 
