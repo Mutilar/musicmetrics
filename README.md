@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **AZ - Rather Unique**
+- currently listening to **Echosmith - Cool Kids**
 
 - **3099** liked songs
 - **32** playlists
