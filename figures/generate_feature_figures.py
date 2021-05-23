@@ -1,31 +1,15 @@
 """WIP Figure generator to visualize Spotify features."""
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+import json
 
-sns.set_theme(style="white")
-rs = np.random.RandomState(50)
 
-# Set up the matplotlib figure
-f, axes = plt.subplots(3, 3, figsize=(9, 9), sharex=True, sharey=True)
+with open('figures/current_features.json') as f:
+  data = json.load(f)
 
-# Rotate the starting point around the cubehelix hue circle
-for ax, s in zip(axes.flat, np.linspace(0, 3, 10)):
+print(data.items())
 
-    # Create a cubehelix colormap to use with kdeplot
-    cmap = sns.cubehelix_palette(start=s, light=1, as_cmap=True)
-
-    # Generate and plot a random bivariate dataset
-    x, y = rs.normal(size=(2, 50))
-    sns.kdeplot(
-        x=x, y=y,
-        cmap=cmap, fill=True,
-        clip=(-5, 5), cut=10,
-        thresh=0, levels=15,
-        ax=ax,
-    )
-    ax.set_axis_off()
-
-ax.set(xlim=(-3.5, 3.5), ylim=(-3.5, 3.5))
-f.subplots_adjust(0, 0, 1, 1, .08, .08)
-f.savefig('figures/test.png')
+fig = go.Figure([go.Bar(x=list(data.keys()), y=list(data.values()), marker_color="firebrick")])
+fig.update_layout(yaxis_range=[0,1])
+# fig.update_layout(paper_bgcolor='rgba(0,0,0,0)')
+# fig.update_layout(plot_bgcolor='rgba(0,0,0,0)')
+fig.write_image("figures/auto.png")

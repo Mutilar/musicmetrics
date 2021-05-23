@@ -1,6 +1,6 @@
 # Music Metrics
 
-This is an ongoing collection of statistics about my music listening activity from various sources such as Spotify / *SoundCloud*<sup>1</sup> and a *feature analysis*<sup>2</sup> of the songs to go along with it.
+Automated music metrics for fun, updated hourly.
 
 <sup>1+2</sup> *coming soon*
 
@@ -16,5 +16,9 @@ This is an ongoing collection of statistics about my music listening activity fr
     {sp_artists}
 
 <br></br>
+
+## Audio features for currently playing
+
+![feature spread](figures/auto.png)
 
 auto readme code from [here](https://github.com/gargakshit/gargakshit)

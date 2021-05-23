@@ -4,8 +4,9 @@ const express = require("express");
 
 const app = express();
 
-const clientId = process.env.CLIENT_ID;
-const clientSecret = process.env.CLIENT_SECRET;
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+
 
 const scopes = [
   "user-library-read",
