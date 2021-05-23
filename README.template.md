@@ -2,8 +2,6 @@
 
 Automated music metrics for fun, updated hourly.
 
-<sup>1+2</sup> *coming soon*
-
 ## Spotify
 
 - currently listening to **{sp_current}**
