@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Echosmith - Cool Kids**
+- currently listening to **Method Man - Got To Have It**
 
 - **3099** liked songs
 - **32** playlists
