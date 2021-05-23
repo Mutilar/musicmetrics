@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Method Man - Got To Have It**
+- currently listening to **Snoop Dogg - Imagine**
 
 - **3099** liked songs
 - **32** playlists
