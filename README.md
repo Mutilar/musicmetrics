@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - Consume (feat. Goon Des Garcons)**
+- currently listening to **Chase Atlantic - Swim**
 
 - **3099** liked songs
 - **32** playlists
