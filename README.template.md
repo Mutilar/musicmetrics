@@ -19,4 +19,4 @@ Automated music metrics for fun, updated hourly.
 
 ![feature spread](figures/auto.png)
 
-auto readme code from [here](https://github.com/gargakshit/gargakshit)
+actions + readme code from [here](https://github.com/gargakshit/gargakshit)
