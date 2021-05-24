@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Kurupt - On, Onsite**
+- currently listening to **Always Never - With It (Acoustic) [Bonus Track]**
 
 - **3099** liked songs
 - **32** playlists
