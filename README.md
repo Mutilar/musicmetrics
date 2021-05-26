@@ -6,7 +6,7 @@ This is an ongoing collection of statistics about my music listening activity fr
 
 ## Spotify
 
-- currently listening to **Purple Disco Machine - Fireworks**
+- currently listening to **AZ - Rather Unique**
 
 - **3099** liked songs
 - **32** playlists
