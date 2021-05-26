@@ -6,7 +6,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Smoke DZA - Substance Abuse**
+- currently listening to **AZ - Rather Unique**
 
 - **3099** liked songs
 - **32** playlists
