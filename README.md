@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jay Gwuapo - Black Mask (feat. Pop Smoke)**
+- currently listening to **Marwa Loud - Bad boy**
 
 - **3099** liked songs
 - **32** playlists
