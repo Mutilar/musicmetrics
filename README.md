@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sickick - Poppin'**
+- currently listening to **Aries - FOOL'S GOLD**
 
 - **3099** liked songs
 - **32** playlists
