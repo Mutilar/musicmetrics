@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - TOO LATE**
+- currently listening to **Sickick - Poppin'**
 
 - **3099** liked songs
 - **32** playlists
