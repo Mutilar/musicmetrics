@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Allday - Girl in the Sun**
+- currently listening to **Allday - Taking Hold**
 
 - **3099** liked songs
 - **32** playlists
