@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Allday - Taking Hold**
+- currently listening to **ZHU - Stay Closer**
 
 - **3099** liked songs
 - **32** playlists
