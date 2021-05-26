@@ -38,7 +38,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install plotly psutil
+          pip install plotly psutil requests
       
       - name: Generate plots
         run: |
