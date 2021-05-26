@@ -38,7 +38,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install plotly psutil requests
+          pip install plotly kaleido
       
       - name: Generate plots
         run: |
