@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **AZ - Rather Unique**
+- currently listening to **Allday - Girl in the Sun**
 
 - **3099** liked songs
 - **32** playlists
@@ -19,4 +19,4 @@ Automated music metrics for fun, updated hourly.
 
 ![feature spread](figures/auto.png)
 
-auto readme code from [here](https://github.com/gargakshit/gargakshit)
+actions + readme code from [here](https://github.com/gargakshit/gargakshit)
