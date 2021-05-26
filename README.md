@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Paramore - Still into You**
+- currently listening to **Chase Atlantic - TOO LATE**
 
 - **3099** liked songs
 - **32** playlists
