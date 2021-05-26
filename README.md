@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ZHU - Stay Closer**
+- currently listening to **Paramore - Still into You**
 
 - **3099** liked songs
 - **32** playlists
