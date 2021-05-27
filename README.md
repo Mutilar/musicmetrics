@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zero 9:36 - Leave The Light On**
+- currently listening to **Always Never - Fade Away**
 
 - **3099** liked songs
 - **32** playlists
