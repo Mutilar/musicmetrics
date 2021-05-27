@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Marwa Loud - Bad boy**
+- currently listening to **PVRIS - Mirrors**
 
 - **3099** liked songs
 - **32** playlists
