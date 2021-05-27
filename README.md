@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **PVRIS - Mirrors**
+- currently listening to **Zero 9:36 - Leave The Light On**
 
 - **3099** liked songs
 - **32** playlists
