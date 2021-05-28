@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jon Bellion - Jim Morrison**
+- currently listening to **Lil Peep - beamer boy**
 
 - **3099** liked songs
 - **32** playlists
