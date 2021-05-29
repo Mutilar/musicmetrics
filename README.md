@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Peep - beamer boy**
+- currently listening to **Machine Gun Kelly - split a pill**
 
 - **3099** liked songs
 - **32** playlists
