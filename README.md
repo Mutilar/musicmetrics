@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Machine Gun Kelly - split a pill**
+- currently listening to **Machine Gun Kelly - concert for aliens**
 
 - **3099** liked songs
 - **32** playlists
