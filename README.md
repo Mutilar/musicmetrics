@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Loft Music**
+- currently listening to **ZHU - Drowning**
 
 - **3099** liked songs
 - **32** playlists
