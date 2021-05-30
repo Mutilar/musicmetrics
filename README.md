@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Machine Gun Kelly - concert for aliens**
+- currently listening to **The Weeknd - Loft Music**
 
 - **3099** liked songs
 - **32** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f1780db925ebb68f5655f2c53e1e) ![artists](https://i.scdn.co/image/ab6761610000f1785cc7aca0b30b4214a4dc154e) ![artists](https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14)
+    ![artists](https://i.scdn.co/image/ab6761610000f1780db925ebb68f5655f2c53e1e) ![artists](https://i.scdn.co/image/ab6761610000f1785cc7aca0b30b4214a4dc154e) ![artists](https://i.scdn.co/image/550bfaa6e0d866c4fa96ba59e3de1d4df6ac5dbc)
 
 <br></br>
 
