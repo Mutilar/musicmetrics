@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bruno Mars - Talking to the Moon**
+- currently listening to **AZ - Rather Unique**
 
 - **3099** liked songs
 - **32** playlists
