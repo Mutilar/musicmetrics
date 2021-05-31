@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **AZ - Rather Unique**
+- currently listening to **Pop Smoke - Armed N Dangerous - Charlie Sloth Freestyle**
 
 - **3099** liked songs
 - **32** playlists
