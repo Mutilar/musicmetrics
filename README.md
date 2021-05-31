@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Snoop Dogg - Boss' Life**
+- currently listening to **Bruno Mars - Talking to the Moon**
 
 - **3099** liked songs
 - **32** playlists
