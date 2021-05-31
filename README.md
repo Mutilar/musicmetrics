@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Pop Smoke - Armed N Dangerous - Charlie Sloth Freestyle**
+- currently listening to **Lil Loaded - Link Up (feat. Pooh Shiesty)**
 
 - **3099** liked songs
 - **32** playlists
