@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jinco - Where We Goin'**
+- currently listening to **Alison Wonderland - U Don't Know - Vincent Remix**
 
 - **3099** liked songs
 - **32** playlists
