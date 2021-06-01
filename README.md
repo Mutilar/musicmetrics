@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Snoop Dogg - Boss' Life**
+- currently listening to **Jinco - Where We Goin'**
 
 - **3099** liked songs
 - **32** playlists
