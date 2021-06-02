@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sean Leon - Kill My Mind**
+- currently listening to **Justin Bieber - Get Me**
 
 - **3099** liked songs
 - **32** playlists
