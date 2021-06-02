@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alison Wonderland - U Don't Know - Vincent Remix**
+- currently listening to **Sean Leon - Kill My Mind**
 
 - **3099** liked songs
 - **32** playlists
