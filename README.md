@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bad Suns - Cardiac Arrest**
+- currently listening to **A.CHAL - To the Light**
 
 - **3099** liked songs
 - **32** playlists
