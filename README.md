@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Justin Bieber - Get Me**
+- currently listening to **Bad Suns - Cardiac Arrest**
 
 - **3099** liked songs
 - **32** playlists
