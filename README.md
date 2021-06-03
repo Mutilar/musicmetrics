@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jon Bellion - New York Soul - Pt. ii**
+- currently listening to **Jon Bellion - Mah's Joint (feat. Quincy Jones)**
 
 - **3099** liked songs
 - **32** playlists
