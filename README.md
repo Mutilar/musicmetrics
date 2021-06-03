@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **A.CHAL - To the Light**
+- currently listening to **Jon Bellion - New York Soul - Pt. ii**
 
 - **3099** liked songs
 - **32** playlists
