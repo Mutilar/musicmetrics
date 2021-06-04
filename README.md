@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Snoop Dogg - Imagine**
+- currently listening to **Frank Ocean - Lost**
 
 - **3099** liked songs
 - **32** playlists
