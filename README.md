@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Frank Ocean - Lost**
+- currently listening to **Kavinsky - Nightcall**
 
 - **3099** liked songs
 - **32** playlists
