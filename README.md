@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kavinsky - Nightcall**
+- currently listening to **Snoop Dogg - Y'All Gone Miss Me**
 
 - **3099** liked songs
 - **32** playlists
