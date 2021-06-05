@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Maggie Lindemann - Scissorhands**
+- currently listening to **Olivia Rodrigo - good 4 u**
 
 - **3099** liked songs
 - **32** playlists
