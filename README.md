@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kavinsky - Nightcall**
+- currently listening to **Maggie Lindemann - Knife Under My Pillow**
 
 - **3099** liked songs
 - **32** playlists
