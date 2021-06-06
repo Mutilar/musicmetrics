@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Azizi Gibson - Slap City**
+- currently listening to **Bruno Mars - It Will Rain**
 
 - **3099** liked songs
 - **32** playlists
