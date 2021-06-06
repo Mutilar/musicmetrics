@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bruno Mars - It Will Rain**
+- currently listening to **Ellie Goulding - Love Me Like You Do**
 
 - **3099** liked songs
 - **32** playlists
