@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ellie Goulding - Love Me Like You Do**
+- currently listening to **Sander Kleinenberg - Can You Feel It (feat. Gwen McCrae) - Club Mix**
 
 - **3099** liked songs
 - **32** playlists
