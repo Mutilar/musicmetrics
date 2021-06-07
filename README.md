@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **blackbear - hot girl bummer**
+- currently listening to **Drake - What’s Next**
 
 - **3099** liked songs
 - **32** playlists
