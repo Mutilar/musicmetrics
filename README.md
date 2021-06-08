@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jon Bellion - Human - Acoustic**
+- currently listening to **Sickick - I'm Good**
 
 - **3099** liked songs
 - **32** playlists
