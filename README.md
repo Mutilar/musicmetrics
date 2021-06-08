@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drake - What’s Next**
+- currently listening to **Chase Atlantic - PLEASE STAND BY [Feat. DE’WAYNE & Xavier Mayne]**
 
 - **3099** liked songs
 - **32** playlists
