@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **PLAZA - Touch & Go**
+- currently listening to **Gesaffelstein - Opr**
 
 - **3099** liked songs
 - **32** playlists
