@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **YUNGBLUD - acting like that (feat. Machine Gun Kelly)**
+- currently listening to **Black Atlass - Sin City**
 
 - **3099** liked songs
 - **32** playlists
