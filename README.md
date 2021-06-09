@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zella Day - Hypnotic - Vanic Remix**
+- currently listening to **YUNGBLUD - acting like that (feat. Machine Gun Kelly)**
 
 - **3099** liked songs
 - **32** playlists
