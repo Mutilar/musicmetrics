@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Sin City**
+- currently listening to **Saro - Please**
 
 - **3099** liked songs
 - **32** playlists
