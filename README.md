@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Roy Woods - Instinct (feat. MadeinTYO)**
+- currently listening to **G Herbo - Rollin (Bonus Track)**
 
 - **3099** liked songs
 - **32** playlists
