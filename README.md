@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **G Herbo - Rollin (Bonus Track)**
+- currently listening to **Phoenix - 1901**
 
 - **3099** liked songs
 - **32** playlists
