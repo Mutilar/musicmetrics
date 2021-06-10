@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Herizen - Social Jungle - Hippie Sabotage Remix**
+- currently listening to **The Weeknd - Professional**
 
 - **3099** liked songs
 - **32** playlists
