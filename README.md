@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Always Never - Millions**
+- currently listening to **Herizen - Social Jungle - Hippie Sabotage Remix**
 
 - **3099** liked songs
 - **32** playlists
