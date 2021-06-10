@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - The Town**
+- currently listening to **Roy Woods - Instinct (feat. MadeinTYO)**
 
 - **3099** liked songs
 - **32** playlists
