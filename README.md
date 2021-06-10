@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Wicked Games**
+- currently listening to **The Weeknd - The Town**
 
 - **3099** liked songs
 - **32** playlists
