@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Phoenix - 1901**
+- currently listening to **Always Never - Millions**
 
 - **3099** liked songs
 - **32** playlists
