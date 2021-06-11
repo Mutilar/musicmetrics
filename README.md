@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Santino Le Saint - Red**
+- currently listening to **RINI - Aphrodite**
 
 - **3099** liked songs
 - **33** playlists
