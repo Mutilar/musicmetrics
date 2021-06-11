@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SEV - To Be Loved**
+- currently listening to **Johnny Rain - Sine Qua Non**
 
 - **3099** liked songs
 - **33** playlists
