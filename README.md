@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DLMT - One Drink**
+- currently listening to **Night Lovell - Alone**
 
 - **3099** liked songs
-- **32** playlists
+- **33** playlists
 
 - top artists: 
 
