@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DaniLeigh - Easy**
+- currently listening to **Chase Atlantic - Right Here**
 
 - **3099** liked songs
 - **33** playlists
