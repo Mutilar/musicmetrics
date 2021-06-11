@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Moneybagg Yo - Shottas (Lala)**
+- currently listening to **Freddie Dredd - GTG**
 
 - **3099** liked songs
 - **33** playlists
