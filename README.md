@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **50 Cent - Candy Shop**
+- currently listening to **Moneybagg Yo - Shottas (Lala)**
 
 - **3099** liked songs
 - **33** playlists
