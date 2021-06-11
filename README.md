@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - Right Here**
+- currently listening to **BETWEEN FRIENDS - affection**
 
 - **3099** liked songs
 - **33** playlists
