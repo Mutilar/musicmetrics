@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Professional**
+- currently listening to **The Weeknd - Adaptation**
 
 - **3099** liked songs
 - **32** playlists
