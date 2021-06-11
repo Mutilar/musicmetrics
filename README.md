@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Night Lovell - Alone**
+- currently listening to **Moneybagg Yo - Shottas (Lala)**
 
 - **3099** liked songs
 - **33** playlists
