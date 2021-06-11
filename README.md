@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Always Never - Millions**
+- currently listening to **DaniLeigh - Easy**
 
 - **3099** liked songs
 - **33** playlists
