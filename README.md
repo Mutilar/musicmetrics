@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RINI - Aphrodite**
+- currently listening to **Nbdy - Admissions**
 
 - **3099** liked songs
 - **33** playlists
