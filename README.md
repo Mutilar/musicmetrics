@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BETWEEN FRIENDS - affection**
+- currently listening to **12AM - Drugs (I Feel Like Dying)**
 
 - **3099** liked songs
 - **33** playlists
