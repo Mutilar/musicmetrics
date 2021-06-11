@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Adaptation**
+- currently listening to **DLMT - One Drink**
 
 - **3099** liked songs
 - **32** playlists
