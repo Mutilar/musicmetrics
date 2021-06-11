@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Close Your Eyes**
+- currently listening to **Always Never - Millions**
 
 - **3099** liked songs
 - **33** playlists
