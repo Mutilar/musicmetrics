@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Johnny Rain - Sine Qua Non**
+- currently listening to **50 Cent - Candy Shop**
 
 - **3099** liked songs
 - **33** playlists
