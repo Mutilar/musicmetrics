@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nbdy - Admissions**
+- currently listening to **SEV - To Be Loved**
 
 - **3099** liked songs
 - **33** playlists
