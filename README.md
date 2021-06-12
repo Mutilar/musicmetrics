@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Odeal - Passenger**
+- currently listening to **Gesaffelstein - Lost in the Fire (feat. The Weeknd)**
 
 - **3099** liked songs
 - **33** playlists
