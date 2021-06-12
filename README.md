@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Smoke DZA - Substance Abuse**
+- currently listening to **Action Bronson - The Rockers (feat. Wiz Khalifa)**
 
 - **3099** liked songs
 - **33** playlists
