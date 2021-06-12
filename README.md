@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jon Bellion - He Is The Same**
+- currently listening to **Odeal - Passenger**
 
 - **3099** liked songs
 - **33** playlists
