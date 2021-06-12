@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Gesaffelstein - Obsession**
+- currently listening to **Smoke DZA - Substance Abuse**
 
 - **3099** liked songs
 - **33** playlists
