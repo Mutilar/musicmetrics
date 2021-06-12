@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Azizi Gibson - Claustrophobic**
+- currently listening to **HOSPICEMANE - MURDER CREEP**
 
 - **3099** liked songs
 - **33** playlists
