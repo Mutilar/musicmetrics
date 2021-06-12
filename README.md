@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **JACKBOYS - GATTI**
+- currently listening to **Azizi Gibson - Claustrophobic**
 
 - **3099** liked songs
 - **33** playlists
