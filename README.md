@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Don Omar - Bandoleros**
+- currently listening to **Always Never - Shattered**
 
 - **3099** liked songs
 - **33** playlists
