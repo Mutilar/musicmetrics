@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Gesaffelstein - Lost in the Fire (feat. The Weeknd)**
+- currently listening to **Gesaffelstein - Obsession**
 
 - **3099** liked songs
 - **33** playlists
