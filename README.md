@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Action Bronson - The Rockers (feat. Wiz Khalifa)**
+- currently listening to **Don Omar - Bandoleros**
 
 - **3099** liked songs
 - **33** playlists
