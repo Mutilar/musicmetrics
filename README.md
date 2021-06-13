@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Machine Gun Kelly - forget me too (feat. Halsey)**
+- currently listening to **DJ Khaled - POPSTAR (feat. Drake)**
 
 - **3099** liked songs
 - **33** playlists
