@@ -1,8 +1,1 @@
-{
-    "danceability": 0.634,
-    "energy": 0.668,
-    "speechiness": 0.0689,
-    "acousticness": 0.432,
-    "liveness": 0.552,
-    "valence": 0.435
-}
+{"danceability":0.518,"energy":0.411,"speechiness":0.0335,"acousticness":0.896,"liveness":0.112,"valence":0.0782}

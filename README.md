@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kamaiyah - Fuck It Up (feat. YG)**
+- currently listening to **Rence - Baby Blue**
 
 - **3099** liked songs
 - **33** playlists
@@ -18,5 +18,9 @@ Automated music metrics for fun, updated hourly.
 ## Audio features for currently playing
 
 ![feature spread](figures/auto.png)
+
+## Ongoing features
+
+![ongoing features](figures/timeseries.png)
 
 actions + readme code from [here](https://github.com/gargakshit/gargakshit)
