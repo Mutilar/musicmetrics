@@ -19,8 +19,6 @@ Automated music metrics for fun, updated hourly.
 
 ![feature spread](figures/auto.png) -->
 
-## Ongoing listening mood
-
 ![ongoing features](figures/timeseries.png)
 
 actions + readme code from [here](https://github.com/gargakshit/gargakshit)
