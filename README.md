@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rence - Baby Blue**
+- currently listening to **ayokay - Queen (feat. Quinn XCII)**
 
 - **3099** liked songs
 - **33** playlists
@@ -15,11 +15,11 @@ Automated music metrics for fun, updated hourly.
 
 <br></br>
 
-## Audio features for currently playing
+<!-- ## Audio features for currently playing
 
-![feature spread](figures/auto.png)
+![feature spread](figures/auto.png) -->
 
-## Ongoing features
+## Ongoing listening mood
 
 ![ongoing features](figures/timeseries.png)
 
