@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ayokay - Queen (feat. Quinn XCII)**
+- currently listening to **LÉON - You And I - SAINT WKND Remix**
 
 - **3099** liked songs
 - **33** playlists
