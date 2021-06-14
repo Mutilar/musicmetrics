@@ -15,11 +15,11 @@ Automated music metrics for fun, updated hourly.
 
 <br></br>
 
-## Audio features for currently playing
+<!-- ## Audio features for currently playing
 
-![feature spread](figures/auto.png)
+![feature spread](figures/auto.png) -->
 
-## Ongoing features
+## Ongoing listening mood
 
 ![ongoing features](figures/timeseries.png)
 
