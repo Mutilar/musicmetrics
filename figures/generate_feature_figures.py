@@ -26,4 +26,6 @@ df = pd.read_csv('figures/ongoing_features.csv', index_col=0)
 fig = px.line(df, x="date", y=df.columns[:-1],
               hover_data={"date": "|%B %d, %Y"},
               title='ongoing listening mood')
+fig.update_layout(paper_bgcolor='rgba(0,0,0,0)')
+fig.update_layout(plot_bgcolor='rgba(0,0,0,0)')
 fig.write_image('figures/timeseries.png')
