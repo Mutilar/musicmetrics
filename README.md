@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aftertheparty - Numb**
+- currently listening to **Sueco - PRIMADONA**
 
 - **3099** liked songs
 - **33** playlists
