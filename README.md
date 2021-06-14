@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **LÉON - You And I - SAINT WKND Remix**
+- currently listening to **The Kid LAROI - WRONG (feat. Lil Mosey)**
 
 - **3099** liked songs
 - **33** playlists
@@ -18,8 +18,6 @@ Automated music metrics for fun, updated hourly.
 <!-- ## Audio features for currently playing
 
 ![feature spread](figures/auto.png) -->
-
-## Ongoing listening mood
 
 ![ongoing features](figures/timeseries.png)
 
