@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Close Your Eyes**
+- currently listening to **The Kid LAROI - WRONG (feat. Lil Mosey)**
 
 - **3099** liked songs
 - **33** playlists
