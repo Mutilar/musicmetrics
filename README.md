@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Juice WRLD - Reminds Me Of You**
+- currently listening to **The Weeknd - Ordinary Life**
 
 - **3099** liked songs
 - **33** playlists
