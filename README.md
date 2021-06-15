@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SAINt JHN - God Bless the Internet**
+- currently listening to **Juice WRLD - Reminds Me Of You**
 
 - **3099** liked songs
 - **33** playlists
