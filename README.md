@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **2Scratch - NO LOVE**
+- currently listening to **Roy Woods - Get You Good**
 
 - **3099** liked songs
 - **33** playlists
