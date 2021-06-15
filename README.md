@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **TENDER - Own Up**
+- currently listening to **FRVRFRIDAY - 100 Rounds**
 
 - **3099** liked songs
 - **33** playlists
