@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **PLAZA - Personal**
+- currently listening to **TENDER - Own Up**
 
 - **3099** liked songs
 - **33** playlists
