@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Ordinary Life**
+- currently listening to **PLAZA - Personal**
 
 - **3099** liked songs
 - **33** playlists
