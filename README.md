@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Darci - On My Own**
+- currently listening to **2Scratch - NO LOVE**
 
 - **3099** liked songs
 - **33** playlists
