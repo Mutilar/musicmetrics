@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kehlani - Toxic**
+- currently listening to **Jhené Aiko - Sativa**
 
-- **3099** liked songs
+- **undefined** liked songs
 - **33** playlists
 
 - top artists: 
