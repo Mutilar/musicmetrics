@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Gesaffelstein - Pursuit**
+- currently listening to **Shui - Losing Myself**
 
 - **821** liked songs
 - **124** playlists
