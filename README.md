@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Masta Ace - Da Grind (Featuring Apocalypse)**
+- currently listening to **Bruno Mars - Count on Me**
 
 - **3099** liked songs
 - **33** playlists
