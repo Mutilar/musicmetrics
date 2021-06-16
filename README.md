@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Far East Movement - Like A G6**
+- currently listening to **Alok - Another You (feat. The Vamps)**
 
-- **821** liked songs
+- **822** liked songs
 - **124** playlists
 
 - top artists: 
