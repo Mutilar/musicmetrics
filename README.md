@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Shui - Losing Myself**
+- currently listening to **Far East Movement - Like A G6**
 
 - **821** liked songs
 - **124** playlists
