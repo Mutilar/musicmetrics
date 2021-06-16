@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bruno Mars - Count on Me**
+- currently listening to **Gesaffelstein - Pursuit**
 
-- **3099** liked songs
-- **33** playlists
+- **821** liked songs
+- **124** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178059b0c42483cc0958c1c2bc4) ![artists](https://i.scdn.co/image/8bf432a5ebaa42ac0a13209ee2b627506d10b92b) ![artists](https://i.scdn.co/image/8a188b7236f3c78416a3f75c9da52957ed3bcb9b)
+    ![artists](https://i.scdn.co/image/0b0925b544b46d90a549f25a7f754ce6e59e6be2) ![artists](https://i.scdn.co/image/e42028e7fe5a7ba790b5b4e7b096b06bf3319443) ![artists](https://i.scdn.co/image/1f257aebfe8ac3405f181533a558c8b771ccb71a)
 
 <br></br>
 
