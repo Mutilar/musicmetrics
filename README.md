@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jhené Aiko - Sativa**
+- currently listening to **Masta Ace - Da Grind (Featuring Apocalypse)**
 
-- **undefined** liked songs
+- **3099** liked songs
 - **33** playlists
 
 - top artists: 
