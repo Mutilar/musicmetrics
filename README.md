@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alok - Another You (feat. The Vamps)**
+- currently listening to **ILLENIUM - First Time (feat. iann dior) - Sam Feldt Remix**
 
 - **822** liked songs
 - **124** playlists
