@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Estelle - American Boy**
+- currently listening to **Billie Eilish - everything i wanted**
 
 - **822** liked songs
 - **124** playlists
