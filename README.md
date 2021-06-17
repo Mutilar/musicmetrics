@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Billie Eilish - everything i wanted**
+- currently listening to **Hot Chelle Rae - Tonight Tonight**
 
 - **822** liked songs
 - **124** playlists
