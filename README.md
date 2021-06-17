@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Diplo - Dance with Me (feat. Thomas Rhett & Young Thug)**
+- currently listening to **Estelle - American Boy**
 
 - **822** liked songs
 - **124** playlists
