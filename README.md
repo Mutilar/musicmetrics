@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Hot Chelle Rae - Tonight Tonight**
+- currently listening to **Nio Garcia - AM**
 
 - **822** liked songs
 - **124** playlists
