@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ILLENIUM - First Time (feat. iann dior) - Sam Feldt Remix**
+- currently listening to **Deepend - Skinny Dip (Komodo) [feat. Philip Strand]**
 
 - **822** liked songs
 - **124** playlists
