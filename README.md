@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nio Garcia - AM**
+- currently listening to **Ozuna - Caramelo**
 
 - **822** liked songs
 - **124** playlists
