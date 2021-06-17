@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Deepend - Skinny Dip (Komodo) [feat. Philip Strand]**
+- currently listening to **Diplo - Dance with Me (feat. Thomas Rhett & Young Thug)**
 
 - **822** liked songs
 - **124** playlists
