@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Justin Bieber - Intentions (feat. Quavo)**
+- currently listening to **Marshmello - Shockwave**
 
-- **822** liked songs
-- **124** playlists
+- **823** liked songs
+- **125** playlists
 
 - top artists: 
 
