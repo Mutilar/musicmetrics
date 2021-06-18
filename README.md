@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ozuna - Caramelo**
+- currently listening to **Justin Bieber - Intentions (feat. Quavo)**
 
 - **822** liked songs
 - **124** playlists
