@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Marshmello - Shockwave**
+- currently listening to **GoldLink - White Walls**
 
 - **823** liked songs
 - **125** playlists
