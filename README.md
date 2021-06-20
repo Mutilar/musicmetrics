@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sam Feldt - Been A While**
+- currently listening to **Lost Frequencies - Recognise**
 
 - **823** liked songs
 - **125** playlists
