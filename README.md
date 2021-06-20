@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lost Frequencies - Beat Of My Heart**
+- currently listening to **Steve Kroeger - Home**
 
 - **823** liked songs
 - **125** playlists
