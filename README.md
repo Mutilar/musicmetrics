@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lost Frequencies - Recognise**
+- currently listening to **Sol Calor - Midnight Sky**
 
 - **823** liked songs
 - **125** playlists
