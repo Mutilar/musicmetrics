@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kav Verhouzer - Do This Together**
+- currently listening to **Sam Feldt - Been A While**
 
 - **823** liked songs
 - **125** playlists
