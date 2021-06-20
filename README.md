@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mako - Run For Your Life (feat. Natalola)**
+- currently listening to **Duke Dumont - I Got U**
 
 - **823** liked songs
 - **125** playlists
