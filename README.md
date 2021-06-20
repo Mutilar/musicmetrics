@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **No2Pencil - Swing Set**
+- currently listening to **Kanye West - Heartless**
 
 - **823** liked songs
-- **125** playlists
+- **126** playlists
 
 - top artists: 
 
