@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Majestic - Rasputin**
+- currently listening to **Lost Frequencies - Rise**
 
-- **824** liked songs
+- **825** liked songs
 - **126** playlists
 
 - top artists: 
