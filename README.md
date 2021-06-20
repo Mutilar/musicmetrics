@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Parov Stelar - The Sun - Klingande Remix Radio Edit**
+- currently listening to **Kav Verhouzer - Do This Together**
 
 - **823** liked songs
 - **125** playlists
