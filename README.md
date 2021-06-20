@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **GoldLink - White Walls**
+- currently listening to **Henry Green - Electric Feel (Kygo Remix)**
 
 - **823** liked songs
 - **125** playlists
