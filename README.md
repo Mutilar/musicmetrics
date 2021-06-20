@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Didrik Thulin - Dancer (Kygo Remix)**
+- currently listening to **No2Pencil - Swing Set**
 
 - **823** liked songs
 - **125** playlists
