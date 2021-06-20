@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Henry Green - Electric Feel (Kygo Remix)**
+- currently listening to **Lost Frequencies - Beat Of My Heart**
 
 - **823** liked songs
 - **125** playlists
