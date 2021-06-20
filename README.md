@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sol Calor - Midnight Sky**
+- currently listening to **Didrik Thulin - Dancer (Kygo Remix)**
 
 - **823** liked songs
 - **125** playlists
