@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duke Dumont - I Got U**
+- currently listening to **Parov Stelar - The Sun - Klingande Remix Radio Edit**
 
 - **823** liked songs
 - **125** playlists
