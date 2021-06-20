@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Heartless**
+- currently listening to **Majestic - Rasputin**
 
-- **823** liked songs
+- **824** liked songs
 - **126** playlists
 
 - top artists: 
