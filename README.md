@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Steve Kroeger - Home**
+- currently listening to **Mako - Run For Your Life (feat. Natalola)**
 
 - **823** liked songs
 - **125** playlists
