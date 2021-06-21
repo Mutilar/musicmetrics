@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **CJ - Whoopty**
+- currently listening to **J. Cole - MIDDLE CHILD**
 
 - **825** liked songs
 - **126** playlists
