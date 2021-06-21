@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ofenbach - Wasted Love (feat. Lagique)**
+- currently listening to **CJ - Whoopty**
 
 - **825** liked songs
 - **126** playlists
