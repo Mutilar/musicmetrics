@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **J. Cole - MIDDLE CHILD**
+- currently listening to **Luxage - Dsnt Rlly Matter**
 
 - **825** liked songs
-- **126** playlists
+- **127** playlists
 
 - top artists: 
 
