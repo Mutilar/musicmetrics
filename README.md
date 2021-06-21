@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Coffee House Smooth Jazz Playlist Lounge - Ambiance for Smooth Days**
+- currently listening to **Ofenbach - Wasted Love (feat. Lagique)**
 
 - **825** liked songs
 - **126** playlists
