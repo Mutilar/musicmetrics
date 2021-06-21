@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lost Frequencies - Rise**
+- currently listening to **Tails - Skeleton (feat. Nevve)**
 
 - **825** liked songs
 - **126** playlists
