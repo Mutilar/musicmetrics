@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tate McRae - working**
+- currently listening to **Always Never - Fade Away**
 
 - **826** liked songs
 - **127** playlists
