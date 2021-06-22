@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Luxage - Dsnt Rlly Matter**
+- currently listening to **Tate McRae - working**
 
-- **825** liked songs
+- **826** liked songs
 - **127** playlists
 
 - top artists: 
