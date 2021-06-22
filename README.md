@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Always Never - Fade Away**
+- currently listening to **SAINt JHN - Monica Lewinsky (feat. A Boogie Wit da Hoodie)**
 
 - **826** liked songs
 - **127** playlists
