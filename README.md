@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SAINt JHN - Monica Lewinsky (feat. A Boogie Wit da Hoodie)**
+- currently listening to **Santino Le Saint - Kill My High Freestyle - Bonus Track**
 
 - **826** liked songs
 - **127** playlists
