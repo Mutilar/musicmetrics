@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ARTY - Take Your Time**
+- currently listening to **Bolier - Ragga - Radio Edit**
 
 - **826** liked songs
 - **127** playlists
