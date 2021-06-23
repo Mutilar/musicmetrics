@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bolier - Ragga - Radio Edit**
+- currently listening to **Tavi Castro - Survive**
 
 - **826** liked songs
 - **127** playlists
