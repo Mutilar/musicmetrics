@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Juice WRLD - Lucid Dreams**
+- currently listening to **Kid Cudi - Day 'N' Nite (Nightmare)**
 
 - **828** liked songs
 - **127** playlists
