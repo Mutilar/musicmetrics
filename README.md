@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alec King - WYD/Yosemite Interlude (featuring k.)**
+- currently listening to **ELIO - hurts 2 hate somebody (with Chase Atlantic & No Rome)**
 
-- **827** liked songs
+- **828** liked songs
 - **127** playlists
 
 - top artists: 
