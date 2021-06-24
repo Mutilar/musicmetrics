@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Baby - Real As It Gets (feat. EST Gee)**
+- currently listening to **Juice WRLD - Lucid Dreams**
 
 - **828** liked songs
 - **127** playlists
