@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tavi Castro - Survive**
+- currently listening to **Sense - All Mine (feat. Eleven) - Bonjr Remix**
 
 - **826** liked songs
 - **127** playlists
