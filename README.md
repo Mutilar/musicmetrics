@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ELIO - hurts 2 hate somebody (with Chase Atlantic & No Rome)**
+- currently listening to **Lil Baby - Real As It Gets (feat. EST Gee)**
 
 - **828** liked songs
 - **127** playlists
