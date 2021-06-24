@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ty Dolla $ign - Blasé (feat. Future & Rae Sremmurd) - Louis the Child Remix**
+- currently listening to **Marley Pitch - Hours Upon Seconds**
 
 - **826** liked songs
 - **127** playlists
