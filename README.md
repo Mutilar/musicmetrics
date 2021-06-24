@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Marley Pitch - Hours Upon Seconds**
+- currently listening to **Alec King - WYD/Yosemite Interlude (featuring k.)**
 
-- **826** liked songs
+- **827** liked songs
 - **127** playlists
 
 - top artists: 
