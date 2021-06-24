@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sense - All Mine (feat. Eleven) - Bonjr Remix**
+- currently listening to **Ty Dolla $ign - Blasé (feat. Future & Rae Sremmurd) - Louis the Child Remix**
 
 - **826** liked songs
 - **127** playlists
