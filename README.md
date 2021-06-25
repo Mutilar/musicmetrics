@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **OneRepublic - Run**
+- currently listening to **Alec King - BMW**
 
-- **828** liked songs
+- **829** liked songs
 - **127** playlists
 
 - top artists: 
