@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Audio Push - Smokeout 99**
+- currently listening to **L.Dre - Last Night**
 
 - **828** liked songs
 - **127** playlists
