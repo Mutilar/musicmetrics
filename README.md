@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **L.Dre - Last Night**
+- currently listening to **Kalou - 053117**
 
 - **828** liked songs
 - **127** playlists
