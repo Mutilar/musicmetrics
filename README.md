@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kid Cudi - Day 'N' Nite (Nightmare)**
+- currently listening to **Audio Push - Smokeout 99**
 
 - **828** liked songs
 - **127** playlists
