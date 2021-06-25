@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Boombox Cartel - Fatal Attraction (feat. Reese LAFLARE)**
+- currently listening to **Deepend - Skinny Dip (Komodo) [feat. Philip Strand]**
 
-- **829** liked songs
+- **830** liked songs
 - **127** playlists
 
 - top artists: 
