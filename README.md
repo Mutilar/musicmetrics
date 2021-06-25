@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alec King - BMW**
+- currently listening to **Boombox Cartel - Fatal Attraction (feat. Reese LAFLARE)**
 
 - **829** liked songs
 - **127** playlists
