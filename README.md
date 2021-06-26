@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ILLENIUM - Nightlight**
+- currently listening to **I See MONSTAS - Holdin' On - Skrillex & Nero Remix**
 
-- **830** liked songs
+- **833** liked songs
 - **127** playlists
 
 - top artists: 
