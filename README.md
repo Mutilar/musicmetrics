@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ZHU - I Admit It (feat. 24kGoldn)**
+- currently listening to **Chuck Sutton - Rosetta**
 
 - **830** liked songs
 - **127** playlists
