@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mohican Sun - Darkest Hour**
+- currently listening to **Kove - Le Retour**
 
 - **833** liked songs
 - **127** playlists
