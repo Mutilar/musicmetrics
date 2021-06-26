@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Deepend - Skinny Dip (Komodo) [feat. Philip Strand]**
+- currently listening to **ZHU - I Admit It (feat. 24kGoldn)**
 
 - **830** liked songs
 - **127** playlists
