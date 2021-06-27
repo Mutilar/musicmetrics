@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Davai - Tear Me Down (feat. Philip Rustad)**
+- currently listening to **BANNERS - Start A Riot - Thundatraxx Remix**
 
 - **835** liked songs
 - **127** playlists
