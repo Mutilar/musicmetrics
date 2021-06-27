@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bazzi - Paradise**
+- currently listening to **Cashmere Cat - Mirror Maru (G.Vump Remix)**
 
 - **835** liked songs
 - **127** playlists
