@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mirani - VVS**
+- currently listening to **Rosemary Clooney - Mambo Italiano**
 
 - **835** liked songs
 - **127** playlists
