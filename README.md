@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cashmere Cat - Mirror Maru (G.Vump Remix)**
+- currently listening to **benny mayne - I AIN'T SHIT**
 
 - **835** liked songs
 - **127** playlists
