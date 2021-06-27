@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rosemary Clooney - Mambo Italiano**
+- currently listening to **Point North - Into The Dark (feat. Kellin Quinn)**
 
 - **835** liked songs
 - **127** playlists
