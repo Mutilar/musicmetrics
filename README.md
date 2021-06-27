@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **I See MONSTAS - Holdin' On - Skrillex & Nero Remix**
+- currently listening to **Mirani - VVS**
 
 - **835** liked songs
 - **127** playlists
