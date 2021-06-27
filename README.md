@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kaan Pars - Hit Me Up**
+- currently listening to **Davai - Tear Me Down (feat. Philip Rustad)**
 
 - **835** liked songs
 - **127** playlists
