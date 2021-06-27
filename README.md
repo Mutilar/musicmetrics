@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Blake Rose - Heavy Shit**
+- currently listening to **Kaan Pars - Hit Me Up**
 
 - **835** liked songs
 - **127** playlists
