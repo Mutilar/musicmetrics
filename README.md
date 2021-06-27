@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **benny mayne - I AIN'T SHIT**
+- currently listening to **Blake Rose - Heavy Shit**
 
 - **835** liked songs
 - **127** playlists
