@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klaus Badelt - He's a Pirate**
+- currently listening to **Tropixx - Blessings**
 
 - **835** liked songs
 - **127** playlists
