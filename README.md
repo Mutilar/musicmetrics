@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Still Woozy - Goodie Bag**
+- currently listening to **Serena Isioma - King**
 
-- **835** liked songs
+- **836** liked songs
 - **127** playlists
 
 - top artists: 
