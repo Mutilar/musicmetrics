@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rare Essence - Hit the Floor**
+- currently listening to **Kota the Friend - Long Beach**
 
 - **835** liked songs
 - **127** playlists
