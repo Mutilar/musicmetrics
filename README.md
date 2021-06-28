@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tropixx - Blessings**
+- currently listening to **Abbesses Square - Feeling Home**
 
 - **835** liked songs
 - **127** playlists
