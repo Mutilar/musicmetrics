@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Abbesses Square - Feeling Home**
+- currently listening to **SAINt JHN - Trap (feat. Lil Baby)**
 
 - **835** liked songs
 - **127** playlists
