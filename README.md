@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SAINt JHN - Trap (feat. Lil Baby)**
+- currently listening to **Andra Day - Phone Dies (feat. Refi Sings)**
 
 - **835** liked songs
 - **127** playlists
