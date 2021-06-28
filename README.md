@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kota the Friend - Long Beach**
+- currently listening to **Still Woozy - Goodie Bag**
 
 - **835** liked songs
 - **127** playlists
