@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Andra Day - Phone Dies (feat. Refi Sings)**
+- currently listening to **Rare Essence - Hit the Floor**
 
 - **835** liked songs
 - **127** playlists
