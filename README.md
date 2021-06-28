@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BANNERS - Start A Riot - Thundatraxx Remix**
+- currently listening to **Millbrook - Echoes**
 
 - **835** liked songs
 - **127** playlists
