@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Millbrook - Echoes**
+- currently listening to **blackbear - hot girl bummer**
 
 - **835** liked songs
 - **127** playlists
