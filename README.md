@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **On Planets - Context**
+- currently listening to **Moore Kismet - Rumor**
 
 - **838** liked songs
 - **129** playlists
