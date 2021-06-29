@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Major Tweaks - Swirling**
+- currently listening to **Doja Cat - I Don't Do Drugs (feat. Ariana Grande)**
 
 - **836** liked songs
 - **129** playlists
