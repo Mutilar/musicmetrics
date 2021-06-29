@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **binki - Heybb!**
+- currently listening to **Major Tweaks - Swirling**
 
 - **836** liked songs
 - **129** playlists
