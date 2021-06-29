@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alec King - Baller**
+- currently listening to **Halsey - Drive - Live From Webster Hall**
 
-- **837** liked songs
+- **838** liked songs
 - **129** playlists
 
 - top artists: 
