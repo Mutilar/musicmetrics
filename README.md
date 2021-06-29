@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klaus Badelt - He's a Pirate**
+- currently listening to **Alec King - Baller**
 
 - **837** liked songs
 - **129** playlists
