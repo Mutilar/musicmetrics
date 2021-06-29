@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Doja Cat - I Don't Do Drugs (feat. Ariana Grande)**
+- currently listening to **MAX - Butterflies**
 
-- **836** liked songs
+- **837** liked songs
 - **129** playlists
 
 - top artists: 
