@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Haux - Calico**
+- currently listening to **binki - Heybb!**
 
 - **836** liked songs
-- **128** playlists
+- **129** playlists
 
 - top artists: 
 
