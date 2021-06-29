@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Moore Kismet - Rumor**
+- currently listening to **Binks - Revival**
 
-- **838** liked songs
+- **839** liked songs
 - **129** playlists
 
 - top artists: 
