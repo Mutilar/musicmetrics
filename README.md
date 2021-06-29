@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Halsey - Drive - Live From Webster Hall**
+- currently listening to **On Planets - Context**
 
 - **838** liked songs
 - **129** playlists
