@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Serena Isioma - King**
+- currently listening to **Haux - Calico**
 
 - **836** liked songs
-- **127** playlists
+- **128** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/0b0925b544b46d90a549f25a7f754ce6e59e6be2) ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a) ![artists](https://i.scdn.co/image/ab6761610000f17897916f0fbc7bb3150602bf5b)
+    ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a) ![artists](https://i.scdn.co/image/ab6761610000f17897916f0fbc7bb3150602bf5b) ![artists](https://i.scdn.co/image/1f257aebfe8ac3405f181533a558c8b771ccb71a)
 
 <br></br>
 
