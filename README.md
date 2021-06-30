@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Colby Lafayette - IM NOT IN THE MOOD**
+- currently listening to **Jimi Tents - On Me**
 
-- **839** liked songs
+- **841** liked songs
 - **129** playlists
 
 - top artists: 
