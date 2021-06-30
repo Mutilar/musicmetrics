@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Soudiere - I Be That Mf**
+- currently listening to **Michael Christmas - Get Up**
 
 - **839** liked songs
 - **129** playlists
