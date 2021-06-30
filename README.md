@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Panic! At The Disco - I Write Sins Not Tragedies**
+- currently listening to **Soudiere - I Be That Mf**
 
 - **839** liked songs
 - **129** playlists
