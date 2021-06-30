@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Coupe - Bayside**
+- currently listening to **Colby Lafayette - IM NOT IN THE MOOD**
 
 - **839** liked songs
 - **129** playlists
