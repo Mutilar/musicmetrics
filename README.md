@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **J. Cole - l e t . g o . m y . h a n d (with Bas & 6LACK)**
+- currently listening to **pronouncedyea - World On Fire**
 
 - **839** liked songs
 - **129** playlists
