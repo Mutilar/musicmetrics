@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **pronouncedyea - World On Fire**
+- currently listening to **Panic! At The Disco - I Write Sins Not Tragedies**
 
 - **839** liked songs
 - **129** playlists
