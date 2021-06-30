@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Luxage - Dsnt Rlly Matter**
+- currently listening to **Caribou - Sunny's Time - Logic1000 Remix**
 
 - **839** liked songs
 - **129** playlists
