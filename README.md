@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Chevron - Love Affair**
+- currently listening to **Cree+ - Do or Die**
 
 - **839** liked songs
 - **129** playlists
