@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Caribou - Sunny's Time - Logic1000 Remix**
+- currently listening to **Coupe - Bayside**
 
 - **839** liked songs
 - **129** playlists
