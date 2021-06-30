@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Binks - Revival**
+- currently listening to **Chevron - Love Affair**
 
 - **839** liked songs
 - **129** playlists
