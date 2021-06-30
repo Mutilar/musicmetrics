@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jimi Tents - On Me**
+- currently listening to **Audio Push - Motherland**
 
 - **841** liked songs
 - **129** playlists
