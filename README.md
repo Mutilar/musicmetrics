@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Akīn - Brotherhood**
+- currently listening to **Cree+ - Do or Die**
 
 - **841** liked songs
 - **129** playlists
