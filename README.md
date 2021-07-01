@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Justin Jay - Stop**
+- currently listening to **Akīn - Brotherhood**
 
 - **841** liked songs
 - **129** playlists
