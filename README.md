@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cautious Clay - Shook**
+- currently listening to **DE'WAYNE - Adios (feat. Chase Atlantic)**
 
 - **841** liked songs
 - **129** playlists
