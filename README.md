@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Audio Push - Motherland**
+- currently listening to **Cautious Clay - Shook**
 
 - **841** liked songs
 - **129** playlists
