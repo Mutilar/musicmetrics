@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DE'WAYNE - Adios (feat. Chase Atlantic)**
+- currently listening to **Justin Jay - Stop**
 
 - **841** liked songs
 - **129** playlists
