@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DWY - Bmx**
+- currently listening to **andy polk - toyota ae86**
 
 - **841** liked songs
 - **129** playlists
