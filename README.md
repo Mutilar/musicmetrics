@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cree+ - Do or Die**
+- currently listening to **DWY - Bmx**
 
 - **841** liked songs
 - **129** playlists
