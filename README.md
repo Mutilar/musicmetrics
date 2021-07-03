@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aluna - Envious**
+- currently listening to **Fred again.. - Angie (I’ve Been Lost)**
 
 - **843** liked songs
 - **129** playlists
