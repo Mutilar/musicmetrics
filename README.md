@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Hazel Calm - Growing**
+- currently listening to **2GO - KIKAROO**
 
 - **841** liked songs
 - **129** playlists
