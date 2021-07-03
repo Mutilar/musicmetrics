@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **2GO - KIKAROO**
+- currently listening to **ILLENIUM - First Time (feat. iann dior) - Sam Feldt Remix**
 
 - **841** liked songs
 - **129** playlists
