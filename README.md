@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ILLENIUM - First Time (feat. iann dior) - Sam Feldt Remix**
+- currently listening to **Aluna - Envious**
 
-- **841** liked songs
+- **843** liked songs
 - **129** playlists
 
 - top artists: 
