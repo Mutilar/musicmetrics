@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **andy polk - toyota ae86**
+- currently listening to **The Last Skeptik - I Like That**
 
 - **841** liked songs
 - **129** playlists
