@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Last Skeptik - I Like That**
+- currently listening to **Hazel Calm - Growing**
 
 - **841** liked songs
 - **129** playlists
