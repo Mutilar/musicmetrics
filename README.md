@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Pip Millett - Running (feat. Ghetts)**
+- currently listening to **Klaus Badelt - He's a Pirate**
 
 - **843** liked songs
 - **129** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a) ![artists](https://i.scdn.co/image/d874c1e1787e1e1a5762a3b008efecab53f7ee0d) ![artists](https://i.scdn.co/image/ab6761610000f17897916f0fbc7bb3150602bf5b)
+    ![artists](https://i.scdn.co/image/d874c1e1787e1e1a5762a3b008efecab53f7ee0d) ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a) ![artists](https://i.scdn.co/image/ab6761610000f17897916f0fbc7bb3150602bf5b)
 
 <br></br>
 
