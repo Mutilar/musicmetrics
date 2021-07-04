@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klaus Badelt - He's a Pirate**
+- currently listening to **The Last Skeptik - I Like That**
 
 - **843** liked songs
 - **129** playlists
