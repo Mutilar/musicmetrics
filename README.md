@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sueco - PRIMADONA**
+- currently listening to **Pip Millett - Running (feat. Ghetts)**
 
 - **843** liked songs
 - **129** playlists
