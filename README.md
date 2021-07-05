@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Flamingosis - Down for the Fifth Time**
+- currently listening to **Noah Kahan - Mess**
 
 - **843** liked songs
 - **130** playlists
