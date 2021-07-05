@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Flobots - Handlebars**
+- currently listening to **Flamingosis - Down for the Fifth Time**
 
 - **843** liked songs
-- **129** playlists
+- **130** playlists
 
 - top artists: 
 
