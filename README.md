@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Noah Kahan - Mess**
+- currently listening to **Joel Adams - Coffee**
 
 - **843** liked songs
 - **130** playlists
