@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Moore Kismet - You Should Run**
+- currently listening to **Lukas Graham - 7 Years**
 
-- **843** liked songs
+- **844** liked songs
 - **130** playlists
 
 - top artists: 
