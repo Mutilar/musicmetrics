@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Alchemist - TV Dinners (feat. Boldy James & Sideshow)**
+- currently listening to **J. Cole - l e t . g o . m y . h a n d (with Bas & 6LACK)**
 
 - **843** liked songs
 - **130** playlists
