@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Joel Adams - Coffee**
+- currently listening to **The Alchemist - TV Dinners (feat. Boldy James & Sideshow)**
 
 - **843** liked songs
 - **130** playlists
