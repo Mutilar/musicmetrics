@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Fossa Beats - Fluorescent**
+- currently listening to **Moore Kismet - You Should Run**
 
 - **843** liked songs
 - **130** playlists
