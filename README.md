@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Trevor Hall - My Own**
+- currently listening to **Tobias Bergson - Dancing Queen**
 
 - **844** liked songs
 - **130** playlists
