@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tobias Bergson - Dancing Queen**
+- currently listening to **Cloudchord - Right of Passage**
 
 - **844** liked songs
 - **130** playlists
