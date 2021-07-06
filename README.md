@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cloudchord - Right of Passage**
+- currently listening to **Alex Dumpty - Voxter**
 
 - **844** liked songs
 - **130** playlists
