@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lukas Graham - 7 Years**
+- currently listening to **Trevor Hall - My Own**
 
 - **844** liked songs
 - **130** playlists
