@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Travis Scott - Goosebumps - Remix**
+- currently listening to **Black Atlass - Sin City**
 
 - **844** liked songs
 - **130** playlists
