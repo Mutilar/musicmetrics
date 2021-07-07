@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Galantis - Heartbreak Anthem (with David Guetta & Little Mix)**
+- currently listening to **Travis Scott - Goosebumps - Remix**
 
 - **844** liked songs
 - **130** playlists
