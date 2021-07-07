@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Sin City**
+- currently listening to **Bicep - Apricots**
 
 - **844** liked songs
 - **130** playlists
