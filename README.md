@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aaryan Shah - To the Ends**
+- currently listening to **Galantis - Heartbreak Anthem (with David Guetta & Little Mix)**
 
 - **844** liked songs
 - **130** playlists
