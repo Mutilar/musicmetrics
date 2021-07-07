@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alex Dumpty - Voxter**
+- currently listening to **King Henry - Remember**
 
 - **844** liked songs
 - **130** playlists
