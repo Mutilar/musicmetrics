@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **TENDER - Come Down When You're Ready**
+- currently listening to **Aaryan Shah - To the Ends**
 
 - **844** liked songs
 - **130** playlists
