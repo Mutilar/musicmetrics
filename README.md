@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Amber Mark - Lose My Cool**
+- currently listening to **Flughand - hua**
 
 - **844** liked songs
 - **131** playlists
