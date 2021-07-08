@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Flughand - hua**
+- currently listening to **Kill Paris - Red Lights - Just A Gent Remix**
 
-- **844** liked songs
+- **845** liked songs
 - **131** playlists
 
 - top artists: 
