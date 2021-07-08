@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bicep - Apricots**
+- currently listening to **Taylor Swift - exile (feat. Bon Iver)**
 
 - **844** liked songs
-- **130** playlists
+- **131** playlists
 
 - top artists: 
 
