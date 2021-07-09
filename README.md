@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jessie Reyez - NO ONE’S IN THE ROOM**
+- currently listening to **Lucky Daye - How Much Can A Heart Take (feat. Yebba)**
 
 - **845** liked songs
 - **131** playlists
