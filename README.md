@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nitti Gritti - 11:25**
+- currently listening to **Jessie Reyez - NO ONE’S IN THE ROOM**
 
 - **845** liked songs
 - **131** playlists
