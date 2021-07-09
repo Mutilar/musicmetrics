@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SiR - Mood (feat. Zacari)**
+- currently listening to **flora cash - Soul Mate**
 
 - **845** liked songs
 - **131** playlists
