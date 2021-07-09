@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kill Paris - Red Lights - Just A Gent Remix**
+- currently listening to **Nitti Gritti - 11:25**
 
 - **845** liked songs
 - **131** playlists
