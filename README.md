@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Xavier Omär - SURF (feat. Masego)**
+- currently listening to **Raveena - Tweety**
 
 - **845** liked songs
 - **131** playlists
