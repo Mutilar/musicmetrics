@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Raveena - Tweety**
+- currently listening to **SiR - Mood (feat. Zacari)**
 
 - **845** liked songs
 - **131** playlists
