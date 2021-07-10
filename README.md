@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jakob - Velvet Light**
+- currently listening to **Men I Trust - Show Me How**
 
 - **845** liked songs
 - **131** playlists
