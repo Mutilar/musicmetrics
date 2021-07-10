@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Men I Trust - Show Me How**
+- currently listening to **Black Atlass - If They Only Knew**
 
 - **845** liked songs
 - **131** playlists
