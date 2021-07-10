@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **flora cash - Soul Mate**
+- currently listening to **Jakob - Velvet Light**
 
 - **845** liked songs
 - **131** playlists
