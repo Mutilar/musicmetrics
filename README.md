@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - If They Only Knew**
+- currently listening to **Black Atlass - Jewels**
 
 - **845** liked songs
 - **131** playlists
