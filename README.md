@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rhye - Beautiful**
+- currently listening to **Soundlabs - Home Made Grooves**
 
 - **845** liked songs
 - **131** playlists
