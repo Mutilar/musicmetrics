@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Soundlabs - Home Made Grooves**
+- currently listening to **Arlissa - Running - TELYKast Remix**
 
 - **845** liked songs
 - **131** playlists
