@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Just A Gent - Limelight (NGHTMRE Remix)**
+- currently listening to **Ruben - Lay By Me**
 
 - **845** liked songs
 - **131** playlists
