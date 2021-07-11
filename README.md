@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Russ - Psycho, Pt. 2**
+- currently listening to **Just A Gent - Limelight (NGHTMRE Remix)**
 
 - **845** liked songs
 - **131** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/d874c1e1787e1e1a5762a3b008efecab53f7ee0d) ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a) ![artists](https://i.scdn.co/image/ab6761610000f17897916f0fbc7bb3150602bf5b)
+    ![artists](https://i.scdn.co/image/ab6761610000f178674ff007ae3142f086057881) ![artists](https://i.scdn.co/image/d874c1e1787e1e1a5762a3b008efecab53f7ee0d) ![artists](https://i.scdn.co/image/ab6761610000f1782067d2f438bfef0550ec6e8a)
 
 <br></br>
 
