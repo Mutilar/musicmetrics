@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ruben - Lay By Me**
+- currently listening to **Rhye - Beautiful**
 
 - **845** liked songs
 - **131** playlists
