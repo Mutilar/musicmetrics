@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Jewels**
+- currently listening to **Russ - Psycho, Pt. 2**
 
 - **845** liked songs
 - **131** playlists
