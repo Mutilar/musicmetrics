@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tony Igy - Astronomia - Never Go Home**
+- currently listening to **Coastal - Breathe**
 
 - **845** liked songs
 - **132** playlists
