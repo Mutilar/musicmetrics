@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Coastal - Breathe**
+- currently listening to **Shoffy - Different Skies**
 
 - **845** liked songs
 - **132** playlists
