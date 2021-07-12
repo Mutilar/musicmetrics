@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ukko - Venus**
+- currently listening to **Black Atlass - Sin City**
 
 - **845** liked songs
 - **132** playlists
