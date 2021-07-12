@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Wet - You're the Best - Feki Remix**
+- currently listening to **Tony Igy - Astronomia - Never Go Home**
 
 - **845** liked songs
 - **132** playlists
