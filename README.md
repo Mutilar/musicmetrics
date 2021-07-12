@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Arlissa - Running - TELYKast Remix**
+- currently listening to **Wet - You're the Best - Feki Remix**
 
 - **845** liked songs
-- **131** playlists
+- **132** playlists
 
 - top artists: 
 
