@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Shoffy - Different Skies**
+- currently listening to **Ukko - Venus**
 
 - **845** liked songs
 - **132** playlists
