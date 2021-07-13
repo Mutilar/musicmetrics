@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RKCB - Flowers for Vases**
+- currently listening to **Coast Modern - Electric Feel**
 
 - **845** liked songs
 - **132** playlists
