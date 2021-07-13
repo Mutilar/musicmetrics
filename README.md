@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Black Atlass - Sin City**
+- currently listening to **Jinco - Love is a Miracle**
 
 - **845** liked songs
 - **132** playlists
