@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aeris Roves - Delilah**
+- currently listening to **Beau Diako - Animal**
 
 - **845** liked songs
 - **132** playlists
