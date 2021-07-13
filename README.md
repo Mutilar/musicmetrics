@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jinco - Love is a Miracle**
+- currently listening to **FARR - Bulletproof**
 
 - **845** liked songs
 - **132** playlists
