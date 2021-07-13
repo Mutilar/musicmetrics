@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Beau Diako - Animal**
+- currently listening to **Mac Ayres - Smoke**
 
 - **845** liked songs
 - **132** playlists
