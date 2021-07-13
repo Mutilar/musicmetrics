@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Coast Modern - Electric Feel**
+- currently listening to **Aeris Roves - Delilah**
 
 - **845** liked songs
 - **132** playlists
