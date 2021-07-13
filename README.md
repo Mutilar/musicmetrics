@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **FARR - Bulletproof**
+- currently listening to **RKCB - Flowers for Vases**
 
 - **845** liked songs
 - **132** playlists
