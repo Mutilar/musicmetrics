@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Avicii - I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit**
+- currently listening to **PNAU - Go Bang**
 
 - **845** liked songs
 - **132** playlists
