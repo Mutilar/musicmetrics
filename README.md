@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **PNAU - Go Bang**
+- currently listening to **Master Haratt - Delicious Deeds**
 
 - **845** liked songs
 - **132** playlists
