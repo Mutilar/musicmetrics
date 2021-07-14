@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Master Haratt - Delicious Deeds**
+- currently listening to **Joe Lee Noire - New York Moonlight**
 
 - **845** liked songs
 - **132** playlists
