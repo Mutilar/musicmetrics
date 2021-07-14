@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Manila Killa - All That's Left (feat. Joni Fatora) - TJANI Remix**
+- currently listening to **Avicii - I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit**
 
 - **845** liked songs
 - **132** playlists
