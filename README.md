@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Joe Lee Noire - New York Moonlight**
+- currently listening to **DEAD BLONDE - Первая дискотека**
 
 - **845** liked songs
 - **132** playlists
