@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Khruangbin - Midnight**
+- currently listening to **Husky - Wristwatch**
 
 - **845** liked songs
 - **132** playlists
