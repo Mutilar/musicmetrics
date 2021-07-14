@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mac Ayres - Smoke**
+- currently listening to **Khruangbin - Midnight**
 
 - **845** liked songs
 - **132** playlists
