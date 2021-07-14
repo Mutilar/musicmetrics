@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Husky - Wristwatch**
+- currently listening to **Manila Killa - All That's Left (feat. Joni Fatora) - TJANI Remix**
 
 - **845** liked songs
 - **132** playlists
