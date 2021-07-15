@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Emerald Lake - Goodbye (feat. Meredith Brackbill & Galvanic)**
+- currently listening to **Apashe - I'm Fine - IMANU Remix**
 
 - **849** liked songs
 - **132** playlists
