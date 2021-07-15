@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Just A Gent - SUB ZERO**
+- currently listening to **Emerald Lake - Goodbye (feat. Meredith Brackbill & Galvanic)**
 
-- **848** liked songs
+- **849** liked songs
 - **132** playlists
 
 - top artists: 
