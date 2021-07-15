@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nelly - Dilemma**
+- currently listening to **Lizzo - Truth Hurts**
 
 - **849** liked songs
 - **132** playlists
