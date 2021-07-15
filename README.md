@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Regard - You**
+- currently listening to **Just A Gent - SUB ZERO**
 
-- **845** liked songs
+- **848** liked songs
 - **132** playlists
 
 - top artists: 
