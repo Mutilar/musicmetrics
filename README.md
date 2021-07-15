@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Apashe - I'm Fine - IMANU Remix**
+- currently listening to **Nelly - Dilemma**
 
 - **849** liked songs
 - **132** playlists
