@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DEAD BLONDE - Первая дискотека**
+- currently listening to **Regard - You**
 
 - **845** liked songs
 - **132** playlists
