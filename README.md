@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lizzo - Truth Hurts**
+- currently listening to **Sega Bodega - Make U Stay**
 
 - **849** liked songs
 - **132** playlists
