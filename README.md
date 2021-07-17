@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klaus Badelt - He's a Pirate**
+- currently listening to **RÜFÜS DU SOL - Alive**
 
-- **849** liked songs
+- **850** liked songs
 - **132** playlists
 
 - top artists: 
