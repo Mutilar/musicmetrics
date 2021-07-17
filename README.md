@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sega Bodega - Make U Stay**
+- currently listening to **Klaus Badelt - He's a Pirate**
 
 - **849** liked songs
 - **132** playlists
