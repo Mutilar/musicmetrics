@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **S. Fidelity - Mixed Signals**
+- currently listening to **Zach Oliver - Don't Matter**
 
 - **850** liked songs
 - **132** playlists
