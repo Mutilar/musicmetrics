@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RÜFÜS DU SOL - Alive**
+- currently listening to **S. Fidelity - Mixed Signals**
 
 - **850** liked songs
 - **132** playlists
