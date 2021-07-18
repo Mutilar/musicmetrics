@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zach Oliver - Don't Matter**
+- currently listening to **Otis Kane - Run**
 
 - **850** liked songs
 - **132** playlists
