@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Akīn - Ancestors**
+- currently listening to **Franglish - OKAY**
 
 - **850** liked songs
 - **132** playlists
