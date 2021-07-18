@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Otis Kane - Run**
+- currently listening to **Akīn - Ancestors**
 
 - **850** liked songs
 - **132** playlists
