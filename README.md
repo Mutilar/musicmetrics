@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **YONAKA - Seize the Power**
+- currently listening to **ZenAware - Falling**
 
-- **852** liked songs
+- **853** liked songs
 - **133** playlists
 
 - top artists: 
