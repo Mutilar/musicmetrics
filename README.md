@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RITCHRD - Paris**
+- currently listening to **YONAKA - Seize the Power**
 
-- **851** liked songs
-- **132** playlists
+- **852** liked songs
+- **133** playlists
 
 - top artists: 
 
