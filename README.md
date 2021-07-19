@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Franglish - OKAY**
+- currently listening to **RITCHRD - Paris**
 
-- **850** liked songs
+- **851** liked songs
 - **132** playlists
 
 - top artists: 
