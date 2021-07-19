@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ALTA - Figured Out - Jonny Reebok Remix**
+- currently listening to **Nelly - Dilemma**
 
 - **853** liked songs
 - **133** playlists
