@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Erykah Badu - The Healer**
+- currently listening to **Mick Jenkins - Truffles**
 
 - **853** liked songs
 - **133** playlists
