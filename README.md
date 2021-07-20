@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mick Jenkins - Truffles**
+- currently listening to **Aaron Smith - Dancin (feat. Luvli) - Krono Remix**
 
 - **853** liked songs
 - **133** playlists
