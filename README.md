@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Just A Gent - Fire**
+- currently listening to **Morgan Wallen - Whiskey Glasses**
 
 - **853** liked songs
 - **133** playlists
