@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Morgan Wallen - Whiskey Glasses**
+- currently listening to **Erykah Badu - The Healer**
 
 - **853** liked songs
 - **133** playlists
