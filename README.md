@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Knocks - R U HIGH (feat. Mallrat)**
+- currently listening to **Duckwrth - Coming Closer**
 
 - **853** liked songs
 - **133** playlists
