@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kevin Abstract - SLUGGER (feat. $NOT & slowthai)**
+- currently listening to **Arrested Youth - Leave My Casket Open... - SMLE Remix**
 
 - **853** liked songs
 - **133** playlists
