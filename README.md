@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Three 6 Mafia - Stay Fly (feat. Young Buck, Eightball & MJG)**
+- currently listening to **The Knocks - R U HIGH (feat. Mallrat)**
 
 - **853** liked songs
 - **133** playlists
