@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aaron Smith - Dancin (feat. Luvli) - Krono Remix**
+- currently listening to **Kevin Abstract - SLUGGER (feat. $NOT & slowthai)**
 
 - **853** liked songs
 - **133** playlists
