@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kid Cudi - She Knows This**
+- currently listening to **Kanye West - Stronger**
 
 - **859** liked songs
 - **133** playlists
