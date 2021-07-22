@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Bound 2**
+- currently listening to **Kanye West - Through The Wire**
 
 - **854** liked songs
 - **133** playlists
