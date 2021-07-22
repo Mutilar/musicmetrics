@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Through The Wire**
+- currently listening to **Just A Gent - Fire**
 
-- **854** liked songs
+- **855** liked songs
 - **133** playlists
 
 - top artists: 
