@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sub Urban - PATCHWERK (with Two Feet)**
+- currently listening to **Kanye West - Bound 2**
 
 - **854** liked songs
 - **133** playlists
