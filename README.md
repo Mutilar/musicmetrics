@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Just A Gent - Fire**
+- currently listening to **Rihanna - FourFiveSeconds**
 
-- **855** liked songs
+- **858** liked songs
 - **133** playlists
 
 - top artists: 
