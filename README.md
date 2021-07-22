@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Peach Tree Rascals - Popeye**
+- currently listening to **USERx - My Body Left My Soul (feat. Pusha T)**
 
 - **859** liked songs
 - **133** playlists
