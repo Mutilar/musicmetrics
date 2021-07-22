@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rihanna - FourFiveSeconds**
+- currently listening to **Peach Tree Rascals - Popeye**
 
-- **858** liked songs
+- **859** liked songs
 - **133** playlists
 
 - top artists: 
