@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duckwrth - Coming Closer**
+- currently listening to **Sub Urban - PATCHWERK (with Two Feet)**
 
-- **853** liked songs
+- **854** liked songs
 - **133** playlists
 
 - top artists: 
