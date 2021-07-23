@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nelly - Dilemma**
+- currently listening to **Kanye West - Bound 2**
 
 - **859** liked songs
 - **133** playlists
