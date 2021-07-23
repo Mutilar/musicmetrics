@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Stronger**
+- currently listening to **Nelly - Dilemma**
 
 - **859** liked songs
 - **133** playlists
