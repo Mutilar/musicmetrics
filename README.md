@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Bound 2**
+- currently listening to **6LACK - PRBLMS**
 
-- **859** liked songs
+- **862** liked songs
 - **133** playlists
 
 - top artists: 
