@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **CHVRCHES - Follow You**
+- currently listening to **CHVRCHES - Leave a Trace - Four Tet Remix**
 
 - **862** liked songs
 - **134** playlists
