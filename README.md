@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sebjak - Yeah - Radio Edit**
+- currently listening to **Elfenberg - Cuzco**
 
 - **862** liked songs
 - **134** playlists
