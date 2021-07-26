@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **No Spirit - Better Now**
+- currently listening to **Nelly - Dilemma**
 
 - **862** liked songs
-- **133** playlists
+- **134** playlists
 
 - top artists: 
 
