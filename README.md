@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Elfenberg - Cuzco**
+- currently listening to **DREAMERS - Palm Reader**
 
 - **862** liked songs
 - **134** playlists
