@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **CHVRCHES - Leave a Trace - Four Tet Remix**
+- currently listening to **Patrick Paige II - Big Plays**
 
-- **862** liked songs
+- **863** liked songs
 - **134** playlists
 
 - top artists: 
