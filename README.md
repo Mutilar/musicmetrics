@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DREAMERS - Palm Reader**
+- currently listening to **CHVRCHES - Follow You**
 
 - **862** liked songs
 - **134** playlists
