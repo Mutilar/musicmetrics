@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nelly - Dilemma**
+- currently listening to **Sebjak - Yeah - Radio Edit**
 
 - **862** liked songs
 - **134** playlists
