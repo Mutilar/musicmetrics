@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Bound 2**
+- currently listening to **No Spirit - Better Now**
 
 - **862** liked songs
 - **133** playlists
