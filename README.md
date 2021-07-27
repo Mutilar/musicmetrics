@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klangkarussell - Shipwreck**
+- currently listening to **Grimes - Kill V. Maim**
 
 - **863** liked songs
 - **135** playlists
