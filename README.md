@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Grimes - Kill V. Maim**
+- currently listening to **Harry James - It's Been a Long, Long Time**
 
 - **863** liked songs
 - **135** playlists
