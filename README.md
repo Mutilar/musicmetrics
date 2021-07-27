@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Patrick Paige II - Big Plays**
+- currently listening to **Klangkarussell - Shipwreck**
 
 - **863** liked songs
-- **134** playlists
+- **135** playlists
 
 - top artists: 
 
