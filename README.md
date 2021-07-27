@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rexx Life Raj - Moonwalk**
+- currently listening to **Doja Cat - Kiss Me More (feat. SZA)**
 
 - **863** liked songs
-- **135** playlists
+- **136** playlists
 
 - top artists: 
 
