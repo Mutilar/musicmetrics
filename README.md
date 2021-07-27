@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **NOT A TOY - J Cash**
+- currently listening to **Rexx Life Raj - Moonwalk**
 
 - **863** liked songs
 - **135** playlists
