@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alina Baraz - Alone With You**
+- currently listening to **Ty Dolla $ign - I Won**
 
 - **863** liked songs
 - **136** playlists
