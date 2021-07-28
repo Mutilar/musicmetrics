@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Doja Cat - Kiss Me More (feat. SZA)**
+- currently listening to **Diplo - Don't Be Afraid - Nicola Cruz Remix**
 
 - **863** liked songs
 - **136** playlists
