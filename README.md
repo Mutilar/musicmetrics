@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Justice Der - Self Control**
+- currently listening to **Kembe X - Under Pressure (The Smoking Peanut) [feat. Rexx Life Raj]**
 
 - **863** liked songs
 - **136** playlists
