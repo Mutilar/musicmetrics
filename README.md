@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Diplo - Don't Be Afraid - Nicola Cruz Remix**
+- currently listening to **Alina Baraz - Alone With You**
 
 - **863** liked songs
 - **136** playlists
