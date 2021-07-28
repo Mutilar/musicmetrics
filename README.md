@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Polo G - RAPSTAR**
+- currently listening to **Justice Der - Self Control**
 
 - **863** liked songs
 - **136** playlists
