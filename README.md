@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ty Dolla $ign - I Won**
+- currently listening to **Polo G - RAPSTAR**
 
 - **863** liked songs
 - **136** playlists
