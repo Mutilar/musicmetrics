@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kembe X - Under Pressure (The Smoking Peanut) [feat. Rexx Life Raj]**
+- currently listening to **Julian Calor - We All Need a Friend**
 
 - **863** liked songs
 - **136** playlists
