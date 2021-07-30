@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BØRNS - Electric Love**
+- currently listening to **Chase Atlantic - Friends**
 
 - **865** liked songs
 - **136** playlists
