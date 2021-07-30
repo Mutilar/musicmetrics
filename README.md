@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Julian Calor - We All Need a Friend**
+- currently listening to **BOOM BOOM SATELLITES - KICK IT OUT (2017)**
 
 - **863** liked songs
 - **136** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178674ff007ae3142f086057881) ![artists](https://i.scdn.co/image/ab6761610000f178791df44171e57a2fe6e21659) ![artists](https://i.scdn.co/image/d874c1e1787e1e1a5762a3b008efecab53f7ee0d)
+    ![artists](https://i.scdn.co/image/ab6761610000f178674ff007ae3142f086057881) ![artists](https://i.scdn.co/image/ab6761610000f178791df44171e57a2fe6e21659) ![artists](https://i.scdn.co/image/ab6761610000f17806d8307f49aa70bfb11f3d78)
 
 <br></br>
 
