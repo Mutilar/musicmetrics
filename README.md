@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Chase Atlantic - Friends**
+- currently listening to **Jeremih - Down On Me**
 
 - **865** liked songs
 - **136** playlists
