@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BOOM BOOM SATELLITES - KICK IT OUT (2017)**
+- currently listening to **BØRNS - Electric Love**
 
-- **863** liked songs
+- **865** liked songs
 - **136** playlists
 
 - top artists: 
