@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jeremih - Down On Me**
+- currently listening to **OnCue - Big Mad**
 
 - **865** liked songs
 - **136** playlists
