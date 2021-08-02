@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **LOWLIFE - FRIENDS**
+- currently listening to **grandson - Rain (from The Suicide Squad)**
 
 - **866** liked songs
 - **136** playlists
