@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RL Grime - Take It Away**
+- currently listening to **Fitz and The Tantrums - I Just Wanna Shine**
 
 - **866** liked songs
 - **136** playlists
