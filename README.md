@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rune - Myself Again**
+- currently listening to **Maesu - 11fortySeVn - starRo Remix**
 
 - **866** liked songs
 - **136** playlists
