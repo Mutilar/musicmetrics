@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mouthe - Sweet Potato**
+- currently listening to **Rune - Myself Again**
 
 - **866** liked songs
 - **136** playlists
