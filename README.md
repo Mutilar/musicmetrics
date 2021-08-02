@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Doja Cat - You Right**
+- currently listening to **Mouthe - Sweet Potato**
 
 - **866** liked songs
 - **136** playlists
