@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **RÜFÜS DU SOL - You Were Right - Louis Futon Remix**
+- currently listening to **SLUMBERJACK - Closure**
 
 - **866** liked songs
 - **136** playlists
