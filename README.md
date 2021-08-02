@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **grandson - Rain (from The Suicide Squad)**
+- currently listening to **RL Grime - Take It Away**
 
 - **866** liked songs
 - **136** playlists
