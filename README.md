@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SLUMBERJACK - Closure**
+- currently listening to **LOWLIFE - FRIENDS**
 
 - **866** liked songs
 - **136** playlists
