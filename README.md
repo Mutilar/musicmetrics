@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Maesu - 11fortySeVn - starRo Remix**
+- currently listening to **Kevin Rudolf - Let It Rock**
 
 - **866** liked songs
 - **136** playlists
