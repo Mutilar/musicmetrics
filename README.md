@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **THEY. - Dante's Creek**
+- currently listening to **Jackson Wang - 100 Ways**
 
 - **866** liked songs
 - **136** playlists
