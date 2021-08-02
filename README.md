@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Hong Kong Boyfriend - Cold Waters**
+- currently listening to **THEY. - Dante's Creek**
 
 - **866** liked songs
 - **136** playlists
