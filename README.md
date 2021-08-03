@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kai Straw - Everything's Sweet**
+- currently listening to **UPSAHL - Drugs (feat. blackbear) (feat. blackbear)**
 
 - **866** liked songs
 - **136** playlists
