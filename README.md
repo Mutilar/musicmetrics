@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Fitz and The Tantrums - I Just Wanna Shine**
+- currently listening to **Work from Home - Some of Y'all**
 
 - **866** liked songs
 - **136** playlists
