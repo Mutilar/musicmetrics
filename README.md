@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **070 Beheard - Said**
+- currently listening to **Kai Straw - Everything's Sweet**
 
 - **866** liked songs
 - **136** playlists
