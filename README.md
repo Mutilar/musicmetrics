@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Work from Home - Some of Y'all**
+- currently listening to **070 Beheard - Said**
 
 - **866** liked songs
 - **136** playlists
