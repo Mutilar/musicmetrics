@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **LEVVELS - Keep Me Alive**
+- currently listening to **Masego - Navajo**
 
 - **866** liked songs
 - **136** playlists
