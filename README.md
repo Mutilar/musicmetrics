@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **UPSAHL - Drugs (feat. blackbear) (feat. blackbear)**
+- currently listening to **RL Grime - Take It Away**
 
 - **866** liked songs
 - **136** playlists
