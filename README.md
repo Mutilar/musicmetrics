@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Masego - Navajo**
+- currently listening to **Cautious Clay - Shook**
 
 - **866** liked songs
 - **136** playlists
