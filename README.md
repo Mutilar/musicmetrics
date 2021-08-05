@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cautious Clay - Shook**
+- currently listening to **Sidmfkid - Seeing Crows**
 
 - **866** liked songs
 - **136** playlists
