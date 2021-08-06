@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sidmfkid - Seeing Crows**
+- currently listening to **emawk - someone - Mudchute Remix**
 
 - **866** liked songs
 - **136** playlists
