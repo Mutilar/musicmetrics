@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **emawk - someone - Mudchute Remix**
+- currently listening to **Olivia Rodrigo - good 4 u**
 
 - **866** liked songs
 - **136** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178674ff007ae3142f086057881) ![artists](https://i.scdn.co/image/ab6761610000f178791df44171e57a2fe6e21659) ![artists](https://i.scdn.co/image/ab6761610000f17806d8307f49aa70bfb11f3d78)
+    ![artists](https://i.scdn.co/image/ab6761610000f178791df44171e57a2fe6e21659) ![artists](https://i.scdn.co/image/ab6761610000f17806d8307f49aa70bfb11f3d78) ![artists](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)
 
 <br></br>
 
