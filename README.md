@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Blankz - Ice Queen**
+- currently listening to **Drake - Chicago Freestyle (feat. Giveon)**
 
 - **866** liked songs
 - **136** playlists
