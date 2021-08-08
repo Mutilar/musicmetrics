@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Andy Mineo - Let Me Know**
+- currently listening to **Azizi Gibson - Rain**
 
 - **866** liked songs
 - **136** playlists
