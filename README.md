@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Azizi Gibson - Backward Books**
+- currently listening to **Blankz - Ice Queen**
 
 - **866** liked songs
 - **136** playlists
