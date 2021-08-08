@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Khalid - OTW**
+- currently listening to **Jim-E Stack - Can We (with Kacy Hill)**
 
 - **866** liked songs
 - **136** playlists
