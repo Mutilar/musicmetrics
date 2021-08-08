@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Olivia Rodrigo - good 4 u**
+- currently listening to **Calvin Harris - Promises (with Sam Smith)**
 
 - **866** liked songs
 - **136** playlists
