@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jim-E Stack - Can We (with Kacy Hill)**
+- currently listening to **Andy Mineo - Let Me Know**
 
 - **866** liked songs
 - **136** playlists
