@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lady Gaga - Alice**
+- currently listening to **Khalid - OTW**
 
 - **866** liked songs
 - **136** playlists
