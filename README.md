@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SAINt JHN - Roses - Imanbek Remix**
+- currently listening to **Lady Gaga - Alice**
 
 - **866** liked songs
 - **136** playlists
