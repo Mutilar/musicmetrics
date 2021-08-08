@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Pip Millett - Running (feat. Ghetts)**
+- currently listening to **Grimes - Go**
 
 - **866** liked songs
 - **136** playlists
