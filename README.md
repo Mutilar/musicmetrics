@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Azizi Gibson - Rain**
+- currently listening to **Y2K - Go Dumb (feat. blackbear, The Kid LAROI and Bankrol Hayden)**
 
 - **866** liked songs
 - **136** playlists
