@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drake - Chicago Freestyle (feat. Giveon)**
+- currently listening to **NoMBe - Weirdo, Pt. 2**
 
 - **866** liked songs
 - **136** playlists
