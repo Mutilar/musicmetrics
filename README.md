@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rob Curly - To the Moon**
+- currently listening to **Britney Spears - Toxic**
 
 - **866** liked songs
 - **136** playlists
