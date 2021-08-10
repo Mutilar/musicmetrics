@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **grandson - Oh No!!! (from The Suicide Squad)**
+- currently listening to **YONAKA - Clique**
 
 - **866** liked songs
 - **136** playlists
