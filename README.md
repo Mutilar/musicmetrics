@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Point North - Everybody Fades**
+- currently listening to **Point North - Personal**
 
 - **866** liked songs
 - **136** playlists
