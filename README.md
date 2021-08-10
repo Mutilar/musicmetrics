@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **YONAKA - Clique**
+- currently listening to **Rob Curly - To the Moon**
 
 - **866** liked songs
 - **136** playlists
