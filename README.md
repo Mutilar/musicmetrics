@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **NoMBe - Weirdo, Pt. 2**
+- currently listening to **grandson - Oh No!!! (from The Suicide Squad)**
 
 - **866** liked songs
 - **136** playlists
