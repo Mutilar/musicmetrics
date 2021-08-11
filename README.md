@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **On Planets - Context**
+- currently listening to **Sensi Sye - Longest Road**
 
 - **866** liked songs
 - **136** playlists
