@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Point North - Empathy - Acoustic**
+- currently listening to **Sebjak - Rain**
 
 - **866** liked songs
 - **136** playlists
