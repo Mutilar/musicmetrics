@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Max Leone - Cautious**
+- currently listening to **Soudiere - I Be That Mf**
 
 - **869** liked songs
 - **138** playlists
