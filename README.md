@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ASIAN KUNG-FU GENERATION - Re:Re:**
+- currently listening to **Max Leone - Cautious**
 
-- **871** liked songs
-- **137** playlists
+- **869** liked songs
+- **138** playlists
 
 - top artists: 
 
