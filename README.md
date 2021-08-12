@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Soudiere - I Be That Mf**
+- currently listening to **smle - Up In Flames**
 
 - **869** liked songs
 - **138** playlists
