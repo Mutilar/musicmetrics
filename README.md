@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **grandson - Oh No!!! (from The Suicide Squad)**
+- currently listening to **ASIAN KUNG-FU GENERATION - Re:Re:**
 
-- **870** liked songs
+- **871** liked songs
 - **137** playlists
 
 - top artists: 
