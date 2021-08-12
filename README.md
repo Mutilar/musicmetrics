@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **smle - Up In Flames**
+- currently listening to **Cree+ - NXXN**
 
-- **869** liked songs
+- **871** liked songs
 - **138** playlists
 
 - top artists: 
