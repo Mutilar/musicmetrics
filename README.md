@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Golden Vessel - Shoulders**
+- currently listening to **Yung Bleu - Beautiful Lies**
 
 - **871** liked songs
 - **138** playlists
