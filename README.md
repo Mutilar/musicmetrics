@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Deorro - Wild Like The Wind**
+- currently listening to **Golden Vessel - Shoulders**
 
 - **871** liked songs
 - **138** playlists
