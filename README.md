@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cree+ - NXXN**
+- currently listening to **MAX - Love Me Less (feat. Quinn XCII)**
 
 - **871** liked songs
 - **138** playlists
