@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **MAX - Love Me Less (feat. Quinn XCII)**
+- currently listening to **Deorro - Wild Like The Wind**
 
 - **871** liked songs
 - **138** playlists
