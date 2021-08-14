@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Yung Bleu - Beautiful Lies**
+- currently listening to **ASIAN KUNG-FU GENERATION - Re:Re:**
 
 - **871** liked songs
 - **138** playlists
