@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kid Cudi - Day 'N' Nite (nightmare)**
+- currently listening to **Manila Killa - Atypical - Juelz Remix**
 
 - **873** liked songs
 - **139** playlists
