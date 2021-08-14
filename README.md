@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DaBaby - Ball If I Want To**
+- currently listening to **Terrell Morris - Pretty Life**
 
 - **871** liked songs
 - **138** playlists
