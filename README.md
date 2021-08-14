@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ASIAN KUNG-FU GENERATION - Re:Re:**
+- currently listening to **Internet Money - His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)**
 
 - **871** liked songs
 - **138** playlists
