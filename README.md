@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Terrell Morris - Pretty Life**
+- currently listening to **Kid Cudi - Day 'N' Nite (nightmare)**
 
-- **871** liked songs
-- **138** playlists
+- **873** liked songs
+- **139** playlists
 
 - top artists: 
 
