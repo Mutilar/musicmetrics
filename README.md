@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Manila Killa - Atypical - Juelz Remix**
+- currently listening to **Jake OHM - Cool Guys Like Cowbells**
 
 - **873** liked songs
 - **139** playlists
