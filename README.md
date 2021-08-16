@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jake OHM - Cool Guys Like Cowbells**
+- currently listening to **William Bolton - Penthouse 8**
 
 - **873** liked songs
 - **139** playlists
