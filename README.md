@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **William Bolton - Penthouse 8**
+- currently listening to **On Planets - Context**
 
 - **873** liked songs
-- **139** playlists
+- **140** playlists
 
 - top artists: 
 
