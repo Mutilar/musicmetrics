@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Petit Biscuit - Parachute - Big Gigantic Remix**
+- currently listening to **Mild Minds - DOPAMINE**
 
 - **873** liked songs
 - **140** playlists
