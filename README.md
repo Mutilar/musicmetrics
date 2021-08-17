@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mild Minds - DOPAMINE**
+- currently listening to **Lil Wayne - Rich As Fuck**
 
 - **873** liked songs
 - **140** playlists
