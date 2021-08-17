@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Martin Garrix - We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song**
+- currently listening to **Petit Biscuit - Parachute - Big Gigantic Remix**
 
 - **873** liked songs
 - **140** playlists
