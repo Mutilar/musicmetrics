@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Love Regenerator - We Can Come Together**
+- currently listening to **Turn. - Trumpet On The Street**
 
 - **875** liked songs
 - **140** playlists
