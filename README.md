@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Big Sean - Switch Up**
+- currently listening to **Jack Harlow - SUVs (Black on Black)**
 
-- **874** liked songs
+- **875** liked songs
 - **140** playlists
 
 - top artists: 
