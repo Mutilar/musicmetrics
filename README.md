@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Wayne - Rich As Fuck**
+- currently listening to **Kendrick Lamar - Swimming Pools (Drank) - Extended Version**
 
-- **873** liked songs
+- **874** liked songs
 - **140** playlists
 
 - top artists: 
