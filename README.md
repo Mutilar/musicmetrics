@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Game - Astronaut P*ssy (feat. Skeme, ScHoolboy Q)**
+- currently listening to **Big Sean - Switch Up**
 
 - **874** liked songs
 - **140** playlists
