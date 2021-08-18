@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Miso Colt - T's in Model T's**
+- currently listening to **Zil Baii - Two Sugars**
 
 - **875** liked songs
 - **140** playlists
