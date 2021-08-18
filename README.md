@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Don't Like.1**
+- currently listening to **The Game - Astronaut P*ssy (feat. Skeme, ScHoolboy Q)**
 
 - **874** liked songs
 - **140** playlists
