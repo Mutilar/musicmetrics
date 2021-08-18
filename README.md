@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Turn. - Trumpet On The Street**
+- currently listening to **Miso Colt - T's in Model T's**
 
 - **875** liked songs
 - **140** playlists
