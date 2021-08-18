@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jack Harlow - SUVs (Black on Black)**
+- currently listening to **Love Regenerator - We Can Come Together**
 
 - **875** liked songs
 - **140** playlists
