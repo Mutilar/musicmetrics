@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Curtis Williams - A Rap About A Girl**
+- currently listening to **Jagwar Twin - Loser - IAMNOBODI Remix**
 
-- **876** liked songs
+- **877** liked songs
 - **140** playlists
 
 - top artists: 
