@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kygo - Love Me Now (feat. Zoe Wees)**
+- currently listening to **Curtis Williams - A Rap About A Girl**
 
 - **876** liked songs
 - **140** playlists
