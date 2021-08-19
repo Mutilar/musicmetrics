@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Brian Blade - Red River Revel**
+- currently listening to **Kenny Garrett - For Art’s Sake**
 
 - **877** liked songs
 - **140** playlists
