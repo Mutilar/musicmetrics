@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zil Baii - Two Sugars**
+- currently listening to **Kygo - Love Me Now (feat. Zoe Wees)**
 
-- **875** liked songs
+- **876** liked songs
 - **140** playlists
 
 - top artists: 
