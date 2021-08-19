@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kenny Garrett - For Art’s Sake**
+- currently listening to **Jack DeJohnette - Two Jimmys**
 
 - **877** liked songs
 - **140** playlists
