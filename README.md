@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Oski - Passionfruit**
+- currently listening to **Tvvin - You Are**
 
 - **877** liked songs
 - **140** playlists
