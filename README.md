@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tvvin - You Are**
+- currently listening to **Brian Blade - Red River Revel**
 
 - **877** liked songs
 - **140** playlists
