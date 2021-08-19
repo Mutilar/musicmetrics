@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jagwar Twin - Loser - IAMNOBODI Remix**
+- currently listening to **Oski - Passionfruit**
 
 - **877** liked songs
 - **140** playlists
