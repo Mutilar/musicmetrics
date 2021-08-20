@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kendrick Lamar - untitled 01 | 08.19.2014.**
+- currently listening to **Frank Sinatra - The Only Couple On The Floor**
 
 - **878** liked songs
 - **140** playlists
