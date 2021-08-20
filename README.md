@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mozzy - Seasons (with Sjava & Reason)**
+- currently listening to **Kendrick Lamar - BLOOD.**
 
 - **878** liked songs
 - **140** playlists
