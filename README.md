@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jack DeJohnette - Two Jimmys**
+- currently listening to **Kendrick Lamar - Alright**
 
-- **877** liked songs
+- **878** liked songs
 - **140** playlists
 
 - top artists: 
