@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nat Reeves - Spirit Waltz (feat. Steve Davis, Josh Bruneau, Rick Germanson & Eric McPherson)**
+- currently listening to **Esbjörn Svensson - Dolores in a Shoestand**
 
 - **878** liked songs
 - **140** playlists
