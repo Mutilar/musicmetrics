@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Esbjörn Svensson - Dolores in a Shoestand**
+- currently listening to **Moses Boyd - Stranger Than Fiction**
 
 - **878** liked songs
 - **140** playlists
