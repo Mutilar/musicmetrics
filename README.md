@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **O. Cas - Arte Caso**
+- currently listening to **tyDi - Count on You - Club Mix**
 
 - **878** liked songs
-- **140** playlists
+- **141** playlists
 
 - top artists: 
 
