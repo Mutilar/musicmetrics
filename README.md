@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Frank Sinatra - The Only Couple On The Floor**
+- currently listening to **Kamasi Washington - Fists of Fury**
 
 - **878** liked songs
 - **140** playlists
