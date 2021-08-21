@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **tyDi - Count on You - Club Mix**
+- currently listening to **Mel Tormé - Comin' Home Baby**
 
 - **878** liked songs
 - **141** playlists
