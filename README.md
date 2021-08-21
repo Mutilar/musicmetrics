@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kamasi Washington - Fists of Fury**
+- currently listening to **Nat Reeves - Spirit Waltz (feat. Steve Davis, Josh Bruneau, Rick Germanson & Eric McPherson)**
 
 - **878** liked songs
 - **140** playlists
