@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Col3man - no destination**
+- currently listening to **Oscar House - Serval**
 
-- **878** liked songs
+- **879** liked songs
 - **142** playlists
 
 - top artists: 
