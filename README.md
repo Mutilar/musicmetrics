@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **nobuddy - empty streets**
+- currently listening to **ENRA - paper walls**
 
 - **878** liked songs
 - **141** playlists
