@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Armen Paul - Say It**
+- currently listening to **tyDi - New Normal**
 
 - **879** liked songs
 - **143** playlists
