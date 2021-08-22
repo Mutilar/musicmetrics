@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Oscar House - Serval**
+- currently listening to **Armen Paul - Say It**
 
 - **879** liked songs
-- **142** playlists
+- **143** playlists
 
 - top artists: 
 
