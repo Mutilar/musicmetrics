@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ENRA - paper walls**
+- currently listening to **SLUMBERJACK - Crucified**
 
 - **878** liked songs
-- **141** playlists
+- **142** playlists
 
 - top artists: 
 
