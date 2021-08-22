@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **tyDi - New Normal**
+- currently listening to **Bravo - 4EVER**
 
 - **879** liked songs
 - **143** playlists
