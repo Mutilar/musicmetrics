@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rihanna - Pon de Replay**
+- currently listening to **nobuddy - empty streets**
 
 - **878** liked songs
 - **141** playlists
