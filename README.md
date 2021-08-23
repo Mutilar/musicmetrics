@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dinah Washington - What A Diff'rence A Day Made**
+- currently listening to **Sleepy Hallow - Deep End Freestyle**
 
-- **881** liked songs
+- **882** liked songs
 - **143** playlists
 
 - top artists: 
