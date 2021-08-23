@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **USS (Ubiquitous Synergy Seeker) - Feel Alive**
+- currently listening to **Bring Me The Horizon - ¿ (feat. Halsey)**
 
 - **881** liked songs
 - **143** playlists
