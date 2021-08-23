@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rise Against - Broken Dreams, Inc. - HEALTH Remix**
+- currently listening to **Dinah Washington - What A Diff'rence A Day Made**
 
 - **881** liked songs
 - **143** playlists
