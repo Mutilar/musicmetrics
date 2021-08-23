@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bring Me The Horizon - ¿ (feat. Halsey)**
+- currently listening to **Rise Against - Broken Dreams, Inc. - HEALTH Remix**
 
 - **881** liked songs
 - **143** playlists
