@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sebjak - Rain**
+- currently listening to **Point North - Into The Dark (feat. Kellin Quinn)**
 
 - **885** liked songs
 - **143** playlists
