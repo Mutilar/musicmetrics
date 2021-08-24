@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DREAMERS - Palm Reader**
+- currently listening to **QUIET BISON - High Like This (feat. Reo Cragun)**
 
-- **883** liked songs
+- **885** liked songs
 - **143** playlists
 
 - top artists: 
