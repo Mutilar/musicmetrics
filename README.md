@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **QUIET BISON - High Like This (feat. Reo Cragun)**
+- currently listening to **Night Lovell - Lethal Presence**
 
 - **885** liked songs
 - **143** playlists
