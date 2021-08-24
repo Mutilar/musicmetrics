@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Night Lovell - Lethal Presence**
+- currently listening to **Sebjak - Rain**
 
 - **885** liked songs
 - **143** playlists
