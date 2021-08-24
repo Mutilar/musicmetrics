@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sleepy Hallow - Deep End Freestyle**
+- currently listening to **Sammy Davis Jr. - Something's Gotta Give**
 
-- **882** liked songs
+- **883** liked songs
 - **143** playlists
 
 - top artists: 
