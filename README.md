@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Point North - Into The Dark (feat. Kellin Quinn)**
+- currently listening to **Jake OHM - Detroit to Memphis 2**
 
 - **885** liked songs
 - **143** playlists
