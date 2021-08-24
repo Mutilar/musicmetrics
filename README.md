@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sammy Davis Jr. - Something's Gotta Give**
+- currently listening to **DREAMERS - Palm Reader**
 
 - **883** liked songs
 - **143** playlists
