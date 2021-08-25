@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kendrick Lamar - Swimming Pools (Drank) - Extended Version**
+- currently listening to **Foreign Air - Your Touch**
 
 - **885** liked songs
 - **144** playlists
