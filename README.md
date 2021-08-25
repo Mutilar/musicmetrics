@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sleepy Hallow - 2055**
+- currently listening to **Kendrick Lamar - Swimming Pools (Drank) - Extended Version**
 
 - **885** liked songs
 - **144** playlists
