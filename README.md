@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **TWIN XL - Slow Heart (PVRIS Remix)**
+- currently listening to **Modern Jazz - Zoom Dub**
 
 - **885** liked songs
 - **144** playlists
