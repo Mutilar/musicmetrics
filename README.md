@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jake OHM - Detroit to Memphis 2**
+- currently listening to **Sleepy Hallow - 2055**
 
 - **885** liked songs
 - **143** playlists
