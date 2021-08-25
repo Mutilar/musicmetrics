@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Foreign Air - Your Touch**
+- currently listening to **TWIN XL - Slow Heart (PVRIS Remix)**
 
 - **885** liked songs
 - **144** playlists
