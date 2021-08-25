@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lorde - Liability**
+- currently listening to **Sleepy Hallow - 2055**
 
 - **885** liked songs
 - **144** playlists
