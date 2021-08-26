@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jake OHM - Detroit to Memphis 2**
+- currently listening to **BADBADNOTGOOD - Time Moves Slow**
 
 - **887** liked songs
 - **144** playlists
