@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duke & Jones - This Could Be - Chill Mix**
+- currently listening to **BAYNK - Esther**
 
 - **887** liked songs
 - **144** playlists
