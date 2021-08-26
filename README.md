@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Frank Sinatra - The Only Couple On The Floor**
+- currently listening to **Wet - Larabar**
 
 - **886** liked songs
 - **144** playlists
