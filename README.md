@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Wet - Larabar**
+- currently listening to **Duke & Jones - This Could Be - Chill Mix**
 
-- **886** liked songs
+- **887** liked songs
 - **144** playlists
 
 - top artists: 
