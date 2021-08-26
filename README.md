@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BADBADNOTGOOD - Time Moves Slow**
+- currently listening to **Petit Biscuit - I Leave Again**
 
 - **887** liked songs
 - **144** playlists
