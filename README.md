@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BAYNK - Esther**
+- currently listening to **Jake OHM - Detroit to Memphis 2**
 
 - **887** liked songs
 - **144** playlists
