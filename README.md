@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Modern Jazz - Zoom Dub**
+- currently listening to **Frank Sinatra - The Only Couple On The Floor**
 
-- **885** liked songs
+- **886** liked songs
 - **144** playlists
 
 - top artists: 
