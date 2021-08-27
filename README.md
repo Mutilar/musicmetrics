@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Camila Cabello - Havana**
+- currently listening to **SLUMBERJACK - Solid**
 
 - **887** liked songs
 - **144** playlists
