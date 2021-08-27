@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **problem solved - Over It**
+- currently listening to **pronouncedyea - World On Fire**
 
 - **887** liked songs
 - **144** playlists
