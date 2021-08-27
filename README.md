@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Electric Guest - Dollar**
+- currently listening to **Three 6 Mafia - Stay Fly (feat. Young Buck, Eightball & MJG)**
 
 - **887** liked songs
 - **144** playlists
