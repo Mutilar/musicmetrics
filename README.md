@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SLUMBERJACK - Solid**
+- currently listening to **Mike Oldfield - To France - Remastered 2015**
 
 - **887** liked songs
 - **144** playlists
