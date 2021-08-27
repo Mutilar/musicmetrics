@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **pronouncedyea - World On Fire**
+- currently listening to **Andrew Luce - When to Love You (feat. Chelsea Cutler)**
 
 - **887** liked songs
 - **144** playlists
