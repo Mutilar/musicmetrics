@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Allday - Sides**
+- currently listening to **problem solved - Over It**
 
 - **887** liked songs
-- **143** playlists
+- **144** playlists
 
 - top artists: 
 
