@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Carmouflage Rose - Late Nights**
+- currently listening to **Allday - Sides**
 
 - **887** liked songs
-- **144** playlists
+- **143** playlists
 
 - top artists: 
 
