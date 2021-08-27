@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Andrew Luce - When to Love You (feat. Chelsea Cutler)**
+- currently listening to **The Kudu - Get High**
 
 - **887** liked songs
 - **144** playlists
