@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Petit Biscuit - I Leave Again**
+- currently listening to **Dom Dolla - Take It**
 
 - **887** liked songs
 - **144** playlists
