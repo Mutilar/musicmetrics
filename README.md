@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Kudu - Get High**
+- currently listening to **Camila Cabello - Havana**
 
 - **887** liked songs
 - **144** playlists
