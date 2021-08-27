@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dom Dolla - Take It**
+- currently listening to **Carmouflage Rose - Late Nights**
 
 - **887** liked songs
 - **144** playlists
