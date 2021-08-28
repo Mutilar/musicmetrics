@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **XXXTENTACION - HEARTEATER**
+- currently listening to **SALOMEA - Not Dead! - Me And Reed Rework**
 
 - **888** liked songs
 - **145** playlists
