@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Doja Cat - Need To Know**
+- currently listening to **SLUMBERJACK - Crucified**
 
 - **887** liked songs
-- **144** playlists
+- **145** playlists
 
 - top artists: 
 
