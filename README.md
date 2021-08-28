@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Mac Miller - The Spins**
+- currently listening to **Doja Cat - Need To Know**
 
 - **887** liked songs
 - **144** playlists
