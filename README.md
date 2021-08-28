@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SLUMBERJACK - Crucified**
+- currently listening to **Masked Wolf - Astronaut In The Ocean**
 
 - **887** liked songs
 - **145** playlists
