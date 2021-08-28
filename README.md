@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Masked Wolf - Astronaut In The Ocean**
+- currently listening to **Sleepy Hallow - 2055**
 
 - **887** liked songs
 - **145** playlists
