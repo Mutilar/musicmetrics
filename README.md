@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Aliiias - Mess With Me**
+- currently listening to **The Kid LAROI - STAY (with Justin Bieber)**
 
 - **889** liked songs
 - **146** playlists
