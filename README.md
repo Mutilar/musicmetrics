@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SALOMEA - Not Dead! - Me And Reed Rework**
+- currently listening to **Gesaffelstein - Pursuit**
 
 - **888** liked songs
 - **145** playlists
