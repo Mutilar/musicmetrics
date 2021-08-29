@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Gesaffelstein - Pursuit**
+- currently listening to **Col3man - late nights.vol.1**
 
 - **888** liked songs
-- **145** playlists
+- **146** playlists
 
 - top artists: 
 
