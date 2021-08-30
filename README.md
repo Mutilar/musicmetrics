@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bill Charlap Trio - Goodbye Mr. Evans**
+- currently listening to **Little Simz - Woman**
 
 - **889** liked songs
 - **146** playlists
