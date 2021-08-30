@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Kid LAROI - STAY (with Justin Bieber)**
+- currently listening to **Liam Huston - Melloton**
 
 - **889** liked songs
 - **146** playlists
