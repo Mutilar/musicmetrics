@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Little Simz - Woman**
+- currently listening to **Col3man - late nights.vol.1**
 
 - **889** liked songs
 - **146** playlists
