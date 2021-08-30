@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **grandson - Rain (from The Suicide Squad)**
+- currently listening to **The Weeknd - Take My Breath**
 
 - **889** liked songs
 - **146** playlists
