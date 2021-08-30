@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Col3man - late nights.vol.1**
+- currently listening to **grandson - Rain (from The Suicide Squad)**
 
 - **889** liked songs
 - **146** playlists
