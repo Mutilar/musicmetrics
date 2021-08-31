@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Hendrik Joerges - Stressed**
+- currently listening to **Taka Perry - Introspect**
 
 - **889** liked songs
 - **146** playlists
