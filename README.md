@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Taka Perry - Introspect**
+- currently listening to **Kid Cudi - Day 'N' Nite (nightmare)**
 
 - **889** liked songs
 - **146** playlists
