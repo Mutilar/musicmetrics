@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **On Planets - Context**
+- currently listening to **Franglish - OKAY**
 
 - **889** liked songs
 - **146** playlists
