@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Modern Jazz - Coding**
+- currently listening to **On Planets - Context**
 
 - **889** liked songs
 - **146** playlists
