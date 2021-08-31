@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Weeknd - Take My Breath**
+- currently listening to **Hendrik Joerges - Stressed**
 
 - **889** liked songs
 - **146** playlists
