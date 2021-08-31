@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kid Cudi - Day 'N' Nite (nightmare)**
+- currently listening to **Modern Jazz - Coding**
 
 - **889** liked songs
 - **146** playlists
