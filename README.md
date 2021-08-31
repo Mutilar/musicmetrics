@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Franglish - OKAY**
+- currently listening to **Bicep - Apricots**
 
 - **889** liked songs
 - **146** playlists
