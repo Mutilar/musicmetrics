@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Robert DeLong - Did It To Myself (feat. Lights)**
+- currently listening to **DUSTY LOCANE - INTRO 2 ME, PT. 1**
 
-- **889** liked songs
+- **890** liked songs
 - **146** playlists
 
 - top artists: 
