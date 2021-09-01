@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **L.A. Smooth Jazz - Cultivated Smooth Lounge with Tenor Saxophone for in Vogue Downtown L.A. Atmosphere**
+- currently listening to **Kevitch - Sunrise**
 
 - **889** liked songs
 - **146** playlists
