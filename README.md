@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kevitch - Sunrise**
+- currently listening to **Robert DeLong - Did It To Myself (feat. Lights)**
 
 - **889** liked songs
 - **146** playlists
