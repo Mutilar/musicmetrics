@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bicep - Apricots**
+- currently listening to **L.A. Smooth Jazz - Sweet Moods for Sensational L.A.**
 
 - **889** liked songs
 - **146** playlists
