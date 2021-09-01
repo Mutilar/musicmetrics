@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **L.A. Smooth Jazz - Fabulous BGM for Trendy Beverly Hills Atmosphere**
+- currently listening to **L.A. Smooth Jazz - Cultivated Smooth Lounge with Tenor Saxophone for in Vogue Downtown L.A. Atmosphere**
 
 - **889** liked songs
 - **146** playlists
