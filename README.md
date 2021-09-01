@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **L.A. Smooth Jazz - Sweet Moods for Sensational L.A.**
+- currently listening to **L.A. Smooth Jazz - Glorious Music for Pulsating L.A.**
 
 - **889** liked songs
 - **146** playlists
