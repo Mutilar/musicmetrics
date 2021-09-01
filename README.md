@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DUSTY LOCANE - INTRO 2 ME, PT. 1**
+- currently listening to **KA$HDAMI - Figures**
 
 - **890** liked songs
 - **146** playlists
