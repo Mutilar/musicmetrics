@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Fase Yoda - Butterflies**
+- currently listening to **DUSTY LOCANE - ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)**
 
 - **890** liked songs
 - **146** playlists
