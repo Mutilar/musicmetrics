@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **tobi lou - Endorphins**
+- currently listening to **Taka Perry - Introspect**
 
 - **890** liked songs
 - **146** playlists
