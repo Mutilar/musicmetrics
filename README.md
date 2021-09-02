@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DUSTY LOCANE - ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)**
+- currently listening to **SG Lewis - Chemicals (feat. Master Peace) - Remix**
 
 - **890** liked songs
 - **146** playlists
