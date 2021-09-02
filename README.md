@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **MAX - Butterflies - Party Pupils Remix**
+- currently listening to **tobi lou - Endorphins**
 
 - **890** liked songs
 - **146** playlists
