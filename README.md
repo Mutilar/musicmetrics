@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Saint Bodhi - Blessed**
+- currently listening to **MAX - Butterflies - Party Pupils Remix**
 
 - **890** liked songs
 - **146** playlists
