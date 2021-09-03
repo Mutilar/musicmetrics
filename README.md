@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dylan Joshua - Slave**
+- currently listening to **Darci - Take It Back**
 
 - **890** liked songs
 - **146** playlists
