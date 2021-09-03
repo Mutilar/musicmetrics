@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - Back It Up**
+- currently listening to **Lil Tecca - Left, Right**
 
 - **890** liked songs
 - **146** playlists
