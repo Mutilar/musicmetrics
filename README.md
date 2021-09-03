@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dylan Joshua - "DELETE"**
+- currently listening to **Dylan Joshua - Slave**
 
 - **890** liked songs
 - **146** playlists
