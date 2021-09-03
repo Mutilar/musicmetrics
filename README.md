@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - Left, Right**
+- currently listening to **Dylan Joshua - "DELETE"**
 
 - **890** liked songs
 - **146** playlists
