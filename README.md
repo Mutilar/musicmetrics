@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - CAUTION**
+- currently listening to **Lil Tecca - ABOUT YOU (with NAV)**
 
 - **890** liked songs
 - **146** playlists
