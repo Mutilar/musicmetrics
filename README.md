@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - Our Time**
+- currently listening to **Lil Tecca - CAUTION**
 
 - **890** liked songs
 - **146** playlists
