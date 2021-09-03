@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - ABOUT YOU (with NAV)**
+- currently listening to **Lil Tecca - Back It Up**
 
 - **890** liked songs
 - **146** playlists
