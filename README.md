@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - POWER**
+- currently listening to **Britney Spears - Toxic**
 
 - **890** liked songs
 - **146** playlists
