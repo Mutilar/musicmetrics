@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Britney Spears - Toxic**
+- currently listening to **Orsten - Fleur Blanche**
 
 - **890** liked songs
 - **146** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178af159f008f57546e24846397) ![artists](https://i.scdn.co/image/ab6761610000f1780101c7ab0ed7b659d472805a) ![artists](https://i.scdn.co/image/ab6761610000f178448a66ae87765bdf2ef799a3)
+    ![artists](https://i.scdn.co/image/ab6761610000f178f9b1521167f731d99bd51a07) ![artists](https://i.scdn.co/image/ab6761610000f178af159f008f57546e24846397) ![artists](https://i.scdn.co/image/ab6761610000f1780101c7ab0ed7b659d472805a)
 
 <br></br>
 
