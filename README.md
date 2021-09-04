@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Orsten - Fleur Blanche**
+- currently listening to **G-Eazy - Moana**
 
 - **890** liked songs
 - **146** playlists
