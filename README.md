@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **FACESOUL - Grow - A COLORS ENCORE**
+- currently listening to **Foreign Air - Your Touch**
 
 - **890** liked songs
 - **146** playlists
