@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **G-Eazy - Moana**
+- currently listening to **Drake - Fair Trade (with Travis Scott)**
 
 - **890** liked songs
 - **146** playlists
