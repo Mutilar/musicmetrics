@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Hurricane**
+- currently listening to **SK8 - Girl Next Door (feat. Wiz Khalifa, DVBBS)**
 
 - **890** liked songs
 - **146** playlists
