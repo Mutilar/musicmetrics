@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drake - Fair Trade (with Travis Scott)**
+- currently listening to **$uicideboy$ - Degeneration in the Key of A Minor**
 
 - **890** liked songs
 - **146** playlists
