@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **$uicideboy$ - Degeneration in the Key of A Minor**
+- currently listening to **Kanye West - Hurricane**
 
 - **890** liked songs
 - **146** playlists
