@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **SK8 - Girl Next Door (feat. Wiz Khalifa, DVBBS)**
+- currently listening to **FACESOUL - Grow - A COLORS ENCORE**
 
 - **890** liked songs
 - **146** playlists
