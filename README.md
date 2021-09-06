@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Foreign Air - Your Touch**
+- currently listening to **Lil Tecca - IDK**
 
 - **890** liked songs
 - **146** playlists
