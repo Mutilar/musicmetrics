@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kasbo - Shut The World Out**
+- currently listening to **Ben Böhmer - Breathing**
 
 - **893** liked songs
 - **146** playlists
