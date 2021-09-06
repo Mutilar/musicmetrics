@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **KC Lights - Cold Light**
+- currently listening to **Kasbo - Shut The World Out**
 
-- **892** liked songs
+- **893** liked songs
 - **146** playlists
 
 - top artists: 
