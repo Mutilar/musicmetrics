@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ben Böhmer - Breathing**
+- currently listening to **KruddTheGuru - TriedToTellYou**
 
-- **893** liked songs
+- **894** liked songs
 - **146** playlists
 
 - top artists: 
