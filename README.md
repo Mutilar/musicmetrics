@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - IDK**
+- currently listening to **Fousheé - deep end**
 
-- **890** liked songs
+- **891** liked songs
 - **146** playlists
 
 - top artists: 
