@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **FloFilz - Taxi Bossa**
+- currently listening to **KC Lights - Cold Light**
 
-- **891** liked songs
+- **892** liked songs
 - **146** playlists
 
 - top artists: 
