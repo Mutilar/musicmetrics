@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Charli XCX - Good Ones**
+- currently listening to **Nora En Pure - Life on Hold**
 
 - **894** liked songs
 - **146** playlists
