@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **bülow - Lost**
+- currently listening to **Lost Kings - Hurt**
 
 - **894** liked songs
 - **146** playlists
