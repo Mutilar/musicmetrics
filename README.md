@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bizzy Banks - My Shit**
+- currently listening to **Charli XCX - Good Ones**
 
 - **894** liked songs
 - **146** playlists
