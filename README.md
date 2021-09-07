@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Stela Cole - Love Like Mine**
+- currently listening to **Beren Olivia - History (feat. Lostboycrow)**
 
 - **894** liked songs
 - **146** playlists
