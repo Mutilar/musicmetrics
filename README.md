@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **LION BABE - Get Up**
+- currently listening to **Duckwrth - MICHUUL.**
 
 - **894** liked songs
 - **146** playlists
