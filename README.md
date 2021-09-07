@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kings Elliot - Bitter Tonic**
+- currently listening to **Dr. Ryo - Late Night Flex**
 
 - **894** liked songs
 - **146** playlists
