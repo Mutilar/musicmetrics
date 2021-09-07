@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tate McRae - Teenage Mind**
+- currently listening to **Kings Elliot - Bitter Tonic**
 
 - **894** liked songs
 - **146** playlists
