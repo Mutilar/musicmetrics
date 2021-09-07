@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lost Kings - Hurt**
+- currently listening to **Amber Mark - Lose My Cool - Franc Moody Remix**
 
 - **894** liked songs
 - **146** playlists
