@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lexi Jayde - newbury park**
+- currently listening to **bülow - Lost**
 
 - **894** liked songs
 - **146** playlists
