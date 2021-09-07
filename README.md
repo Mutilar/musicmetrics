@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Shakira - Don't Wait Up**
+- currently listening to **Tate McRae - Teenage Mind**
 
 - **894** liked songs
 - **146** playlists
