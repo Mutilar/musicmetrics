@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Amaarae - SAD GIRLZ LUV MONEY**
+- currently listening to **LION BABE - Get Up**
 
 - **894** liked songs
 - **146** playlists
