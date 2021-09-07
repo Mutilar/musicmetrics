@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Luz - the author**
+- currently listening to **Bizzy Banks - My Shit**
 
 - **894** liked songs
 - **146** playlists
