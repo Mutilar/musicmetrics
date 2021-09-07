@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dr. Ryo - Late Night Flex**
+- currently listening to **Phora - Stars In The Sky (feat. Jhené Aiko)**
 
 - **894** liked songs
 - **146** playlists
