@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **KruddTheGuru - TriedToTellYou**
+- currently listening to **Amaarae - SAD GIRLZ LUV MONEY**
 
 - **894** liked songs
 - **146** playlists
