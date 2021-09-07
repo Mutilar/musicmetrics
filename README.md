@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nora En Pure - Life on Hold**
+- currently listening to **Duck Sauce - Nonchalant**
 
 - **894** liked songs
 - **146** playlists
