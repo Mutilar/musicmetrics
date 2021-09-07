@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Beren Olivia - History (feat. Lostboycrow)**
+- currently listening to **Lexi Jayde - newbury park**
 
 - **894** liked songs
 - **146** playlists
