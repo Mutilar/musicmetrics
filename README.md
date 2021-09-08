@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Red Dressed - Ben Böhmer Remix**
+- currently listening to **Worakls - Macareux**
 
 - **895** liked songs
 - **146** playlists
