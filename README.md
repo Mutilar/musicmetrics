@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Xan Griffin - Lightly**
+- currently listening to **Internet Money - JETSKI (feat. Lil Mosey & Lil Tecca)**
 
 - **895** liked songs
 - **146** playlists
