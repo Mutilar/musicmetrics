@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Macareux**
+- currently listening to **Sirens Of Lesbos - Like Some Dream**
 
 - **895** liked songs
 - **146** playlists
