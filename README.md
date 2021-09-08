@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Elea**
+- currently listening to **Worakls - Red Dressed - Ben Böhmer Remix**
 
 - **895** liked songs
 - **146** playlists
