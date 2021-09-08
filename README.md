@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duck Sauce - Nonchalant**
+- currently listening to **Worakls - Elea**
 
-- **894** liked songs
+- **895** liked songs
 - **146** playlists
 
 - top artists: 
