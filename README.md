@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - CHOPPA SHOOT THE LOUDEST (with Chief Keef, feat. Trippie Redd)**
+- currently listening to **Lil Tecca - TRANSYNPHONY**
 
 - **895** liked songs
 - **146** playlists
