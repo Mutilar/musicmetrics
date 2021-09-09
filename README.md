@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - SEASIDE (feat. iann dior)**
+- currently listening to **Lil Tecca - MONEY ON ME**
 
 - **895** liked songs
 - **146** playlists
