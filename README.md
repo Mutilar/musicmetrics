@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - TRANSYNPHONY**
+- currently listening to **Lil Tecca - SEASIDE (feat. iann dior)**
 
 - **895** liked songs
 - **146** playlists
