@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - MONEY ON ME**
+- currently listening to **Lil Tecca - REPEAT IT (with Gunna)**
 
 - **895** liked songs
 - **146** playlists
