@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Shordie Shordie - Both Sides (feat. Shoreline Mafia)**
+- currently listening to **Elderbrook - I’ll Find My Way To You**
 
-- **897** liked songs
+- **898** liked songs
 - **147** playlists
 
 - top artists: 
