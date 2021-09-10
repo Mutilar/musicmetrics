@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **LOONY - raw**
+- currently listening to **347aidan - Demons and Monsters**
 
 - **897** liked songs
 - **146** playlists
