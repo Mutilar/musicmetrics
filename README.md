@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **mike. - life got crazy**
+- currently listening to **LOONY - raw**
 
 - **897** liked songs
 - **146** playlists
