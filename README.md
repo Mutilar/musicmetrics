@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Elderbrook - I’ll Find My Way To You**
+- currently listening to **Jimmy the Human - Magic Marker**
 
 - **898** liked songs
 - **147** playlists
