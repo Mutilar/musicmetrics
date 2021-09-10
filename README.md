@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **347aidan - Demons and Monsters**
+- currently listening to **Shordie Shordie - Both Sides (feat. Shoreline Mafia)**
 
 - **897** liked songs
-- **146** playlists
+- **147** playlists
 
 - top artists: 
 
