@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lil Tecca - REPEAT IT (with Gunna)**
+- currently listening to **mike. - life got crazy**
 
-- **895** liked songs
+- **897** liked songs
 - **146** playlists
 
 - top artists: 
