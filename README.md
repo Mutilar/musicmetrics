@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **347aidan - ON MY Grind**
+- currently listening to **Kendrick Lamar - All The Stars (with SZA)**
 
 - **898** liked songs
 - **147** playlists
