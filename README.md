@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **UMEK - Distinct Operator - Original Mix**
+- currently listening to **Jesper Ryom - Godt Begyndt**
 
 - **900** liked songs
 - **148** playlists
