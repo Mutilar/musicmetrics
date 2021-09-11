@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Laurence Guy - Untitled Needs**
+- currently listening to **Maceo Plex - Solitary Daze**
 
 - **900** liked songs
 - **148** playlists
