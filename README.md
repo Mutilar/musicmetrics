@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Maceo Plex - Solitary Daze**
+- currently listening to **UMEK - Distinct Operator - Original Mix**
 
 - **900** liked songs
 - **148** playlists
