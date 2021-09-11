@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kendrick Lamar - All The Stars (with SZA)**
+- currently listening to **Drex Carter - Monday Mourning**
 
-- **898** liked songs
+- **900** liked songs
 - **147** playlists
 
 - top artists: 
