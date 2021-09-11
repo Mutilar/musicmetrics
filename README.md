@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jimmy the Human - Magic Marker**
+- currently listening to **Baby Keem - south africa**
 
 - **898** liked songs
 - **147** playlists
