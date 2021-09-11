@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Baby Keem - south africa**
+- currently listening to **EKKSTACY - i walk this earth all by myself**
 
 - **898** liked songs
 - **147** playlists
