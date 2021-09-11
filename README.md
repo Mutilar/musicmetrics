@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drex Carter - Monday Mourning**
+- currently listening to **Laurence Guy - Untitled Needs**
 
 - **900** liked songs
-- **147** playlists
+- **148** playlists
 
 - top artists: 
 
