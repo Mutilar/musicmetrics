@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **EKKSTACY - i walk this earth all by myself**
+- currently listening to **347aidan - ON MY Grind**
 
 - **898** liked songs
 - **147** playlists
