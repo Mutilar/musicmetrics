@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sleepy Hallow - 2055**
+- currently listening to **T-Pain - I Like Dat**
 
 - **906** liked songs
 - **149** playlists
