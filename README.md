@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lund - Skin & Bones**
+- currently listening to **Drippin So Pretty - Bad News**
 
 - **902** liked songs
 - **149** playlists
