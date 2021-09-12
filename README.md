@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drippin So Pretty - Bad News**
+- currently listening to **Trippie Redd - Rich MF (feat. Polo G & Lil Durk)**
 
-- **902** liked songs
+- **906** liked songs
 - **149** playlists
 
 - top artists: 
