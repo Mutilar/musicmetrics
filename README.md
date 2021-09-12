@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jesper Ryom - Godt Begyndt**
+- currently listening to **Lund - Skin & Bones**
 
-- **900** liked songs
-- **148** playlists
+- **902** liked songs
+- **149** playlists
 
 - top artists: 
 
