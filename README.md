@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Baby Keem - issues**
+- currently listening to **Young Franco - Juice**
 
 - **906** liked songs
 - **149** playlists
