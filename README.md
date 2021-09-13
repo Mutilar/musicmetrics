@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **T-Pain - I Like Dat**
+- currently listening to **Baby Keem - issues**
 
 - **906** liked songs
 - **149** playlists
