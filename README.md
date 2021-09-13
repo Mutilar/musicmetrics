@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **C-Dot 416 - Funk**
+- currently listening to **LiL Lotus - Over and Over Again**
 
 - **906** liked songs
 - **149** playlists
