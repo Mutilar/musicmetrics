@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Yung Pinch - HARD TIMES**
+- currently listening to **Ollie - get it there**
 
-- **906** liked songs
-- **150** playlists
+- **908** liked songs
+- **151** playlists
 
 - top artists: 
 
