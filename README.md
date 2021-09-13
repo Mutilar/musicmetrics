@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Young Franco - Juice**
+- currently listening to **C-Dot 416 - Funk**
 
 - **906** liked songs
 - **149** playlists
