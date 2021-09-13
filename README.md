@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **guccihighwaters - do u wanna be mine**
+- currently listening to **Yung Pinch - HARD TIMES**
 
 - **906** liked songs
-- **149** playlists
+- **150** playlists
 
 - top artists: 
 
