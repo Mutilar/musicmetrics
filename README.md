@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Central Cee - Little Bit of This**
+- currently listening to **Worakls - Elea**
 
 - **908** liked songs
 - **151** playlists
