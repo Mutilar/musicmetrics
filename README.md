@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - get it there**
+- currently listening to **Dylan Joshua - "DELETE"**
 
 - **908** liked songs
 - **151** playlists
