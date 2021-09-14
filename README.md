@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dylan Joshua - "DELETE"**
+- currently listening to **Central Cee - Little Bit of This**
 
 - **908** liked songs
 - **151** playlists
