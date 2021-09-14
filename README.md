@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rxseboy - When We Were 16**
+- currently listening to **Kid Quill - Playlist**
 
 - **909** liked songs
 - **151** playlists
