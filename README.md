@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Elea**
+- currently listening to **Lil Xtra - Different**
 
-- **908** liked songs
+- **909** liked songs
 - **151** playlists
 
 - top artists: 
