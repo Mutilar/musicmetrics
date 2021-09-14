@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kid Quill - Playlist**
+- currently listening to **Pop Smoke - Dior**
 
 - **909** liked songs
 - **151** playlists
