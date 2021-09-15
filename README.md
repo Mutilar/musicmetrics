@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - Feelings**
+- currently listening to **Luxage - Cosmopolitan**
 
 - **909** liked songs
 - **151** playlists
