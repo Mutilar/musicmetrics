@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Alicia Keys - LALA (Unlocked) (feat. Swae Lee)**
+- currently listening to **Worakls - Porto**
 
 - **909** liked songs
 - **151** playlists
