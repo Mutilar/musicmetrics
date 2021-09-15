@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sarah, the Illstrumentalist - At My Own Pace**
+- currently listening to **Hatchio - Favorbook**
 
 - **909** liked songs
 - **151** playlists
