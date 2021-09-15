@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Luxage - Cosmopolitan**
+- currently listening to **David Wolves - Rapture**
 
 - **909** liked songs
 - **151** playlists
