@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **David Wolves - Rapture**
+- currently listening to **92elm - Would You**
 
 - **909** liked songs
 - **151** playlists
