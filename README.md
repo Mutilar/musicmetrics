@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Porto**
+- currently listening to **Papithbk - Love Is a Drug**
 
 - **909** liked songs
 - **151** playlists
