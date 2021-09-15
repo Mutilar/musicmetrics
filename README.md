@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Hurricane**
+- currently listening to **Sarah, the Illstrumentalist - At My Own Pace**
 
 - **909** liked songs
 - **151** playlists
