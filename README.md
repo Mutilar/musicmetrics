@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Pop Smoke - Dior**
+- currently listening to **Kanye West - Hurricane**
 
 - **909** liked songs
 - **151** playlists
