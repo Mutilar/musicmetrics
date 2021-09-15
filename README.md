@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Hatchio - Favorbook**
+- currently listening to **Glass Globe - I'm Out**
 
 - **909** liked songs
 - **151** playlists
