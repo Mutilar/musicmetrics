@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **92elm - Would You**
+- currently listening to **Nurko - Right Now**
 
 - **909** liked songs
 - **151** playlists
