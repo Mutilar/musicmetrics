@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - Need Someone**
+- currently listening to **guccihighwaters - all my fault**
 
 - **909** liked songs
 - **151** playlists
