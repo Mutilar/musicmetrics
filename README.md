@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Pip Millett - Running (feat. Ghetts)**
+- currently listening to **Ollie - Need Someone**
 
 - **909** liked songs
 - **151** playlists
