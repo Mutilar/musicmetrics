@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kanye West - Hurricane**
+- currently listening to **Big Dope P - Ugly**
 
-- **910** liked songs
-- **151** playlists
+- **911** liked songs
+- **152** playlists
 
 - top artists: 
 
