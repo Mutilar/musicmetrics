@@ -6,8 +6,8 @@ Automated music metrics for fun, updated hourly.
 
 - currently listening to **Big Dope P - Ugly**
 
-- **911** liked songs
-- **152** playlists
+- **912** liked songs
+- **153** playlists
 
 - top artists: 
 
