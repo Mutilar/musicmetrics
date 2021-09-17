@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - lifeboat**
+- currently listening to **Oliver Francis - TOXIC PARADISE**
 
-- **913** liked songs
+- **916** liked songs
 - **153** playlists
 
 - top artists: 
