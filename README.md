@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Big Dope P - Ugly**
+- currently listening to **Ollie - lifeboat**
 
-- **912** liked songs
+- **913** liked songs
 - **153** playlists
 
 - top artists: 
