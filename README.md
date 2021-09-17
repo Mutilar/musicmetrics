@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Chris Brown - No Guidance (feat. Drake)**
+- currently listening to **Kanye West - Hurricane**
 
 - **910** liked songs
 - **151** playlists
