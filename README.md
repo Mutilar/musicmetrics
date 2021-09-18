@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Tion Wayne - Who's True**
+- currently listening to **GRMLN - Rollercoaster**
 
 - **916** liked songs
 - **153** playlists
