@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **GRMLN - Rollercoaster**
+- currently listening to **DE'WAYNE - Adios (feat. Chase Atlantic)**
 
 - **916** liked songs
 - **153** playlists
