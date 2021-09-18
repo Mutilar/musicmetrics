@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Toni Romiti - Patience (feat. Jean Deaux) - Bass Boosted Remix**
+- currently listening to **Tion Wayne - Who's True**
 
 - **916** liked songs
 - **153** playlists
