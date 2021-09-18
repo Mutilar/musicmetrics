@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Big Dope P - Ugly**
+- currently listening to **Nostalgia - The avatar's love**
 
-- **916** liked songs
+- **917** liked songs
 - **153** playlists
 
 - top artists: 
