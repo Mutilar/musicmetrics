@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **JayXander - Ghost Me**
+- currently listening to **Big Dope P - Ugly**
 
 - **916** liked songs
 - **153** playlists
