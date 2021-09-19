@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nostalgia - The avatar's love**
+- currently listening to **Apashe - More More More**
 
-- **917** liked songs
+- **918** liked songs
 - **153** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178f9b1521167f731d99bd51a07) ![artists](https://i.scdn.co/image/ab6761610000f178448a66ae87765bdf2ef799a3) ![artists](https://i.scdn.co/image/ab6761610000f178523f7cb5dfaeea7c4f7ef001)
+    ![artists](https://i.scdn.co/image/ab6761610000f178f9b1521167f731d99bd51a07) ![artists](https://i.scdn.co/image/ab6761610000f178448a66ae87765bdf2ef799a3) ![artists](https://i.scdn.co/image/ab6761610000f178230626abc059df28486f6591)
 
 <br></br>
 
