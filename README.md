@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Col3man - late nights.vol.1**
+- currently listening to **The Kudu - Get High**
 
 - **918** liked songs
 - **154** playlists
