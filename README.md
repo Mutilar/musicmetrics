@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jor'dan Armstrong - CAN'T**
+- currently listening to **Luxage - Cosmopolitan**
 
 - **919** liked songs
 - **154** playlists
