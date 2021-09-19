@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Apashe - More More More**
+- currently listening to **Russ - When This Was All New**
 
 - **918** liked songs
 - **153** playlists
