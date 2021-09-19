@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Headphone Activist - Move That**
+- currently listening to **Josh Golden - heaven come**
 
 - **919** liked songs
 - **154** playlists
