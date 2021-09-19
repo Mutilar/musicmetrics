@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Kudu - Get High**
+- currently listening to **Victoria Monét - Coastin’**
 
-- **918** liked songs
+- **919** liked songs
 - **154** playlists
 
 - top artists: 
