@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Luxage - Cosmopolitan**
+- currently listening to **Headphone Activist - Move That**
 
 - **919** liked songs
 - **154** playlists
