@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Victoria Monét - Coastin’**
+- currently listening to **Jor'dan Armstrong - CAN'T**
 
 - **919** liked songs
 - **154** playlists
