@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Russ - When This Was All New**
+- currently listening to **Col3man - late nights.vol.1**
 
 - **918** liked songs
-- **153** playlists
+- **154** playlists
 
 - top artists: 
 
