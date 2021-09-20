@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **THEY. - U-RITE**
+- currently listening to **Tony Bennett - Love For Sale**
 
 - **919** liked songs
 - **154** playlists
