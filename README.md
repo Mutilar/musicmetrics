@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Amber Mark - Lose My Cool**
+- currently listening to **THEY. - U-RITE**
 
 - **919** liked songs
 - **154** playlists
