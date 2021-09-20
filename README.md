@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Miller Jones - Frozen Trees**
+- currently listening to **Y2K - Go Dumb (feat. blackbear, The Kid LAROI and Bankrol Hayden)**
 
 - **919** liked songs
 - **154** playlists
