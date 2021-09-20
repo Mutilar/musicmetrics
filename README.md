@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Y2K - Go Dumb (feat. blackbear, The Kid LAROI and Bankrol Hayden)**
+- currently listening to **Amber Mark - Lose My Cool**
 
 - **919** liked songs
 - **154** playlists
