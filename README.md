@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Josh Golden - heaven come**
+- currently listening to **Miller Jones - Frozen Trees**
 
 - **919** liked songs
 - **154** playlists
