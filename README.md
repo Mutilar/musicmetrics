@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DDG - Rucci**
+- currently listening to **Trippie Redd - Matt Hardy 999 (feat. Juice WRLD)**
 
 - **920** liked songs
 - **154** playlists
