@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Trippie Redd - Matt Hardy 999 (feat. Juice WRLD)**
+- currently listening to **Masked Wolf - Razor's Edge (feat. X Ambassadors)**
 
 - **920** liked songs
 - **154** playlists
