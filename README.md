@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **guccihighwaters - lately**
+- currently listening to **Belly - Better Believe (ft The Weeknd)**
 
 - **920** liked songs
 - **154** playlists
