@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Masked Wolf - Razor's Edge (feat. X Ambassadors)**
+- currently listening to **guccihighwaters - lately**
 
 - **920** liked songs
 - **154** playlists
