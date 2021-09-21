@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Belly - Better Believe (ft The Weeknd)**
+- currently listening to **Worakls - Elea**
 
 - **920** liked songs
 - **154** playlists
