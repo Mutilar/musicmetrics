@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Worakls - Elea**
+- currently listening to **347aidan - Dancing in My Room**
 
 - **920** liked songs
 - **154** playlists
