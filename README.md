@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **347aidan - Dancing in My Room**
+- currently listening to **yung van - Dear Death, I Miss You**
 
 - **920** liked songs
 - **154** playlists
