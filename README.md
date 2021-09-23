@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **yung van - Dear Death, I Miss You**
+- currently listening to **Robert DeLong - Did It To Myself (feat. Lights)**
 
 - **920** liked songs
 - **154** playlists
