@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kali Uchis - telepatía**
+- currently listening to **Kelly Rowland - Crazy**
 
 - **920** liked songs
 - **155** playlists
