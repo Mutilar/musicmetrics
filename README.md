@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kelly Rowland - Crazy**
+- currently listening to **Ed Sheeran - Shivers**
 
 - **920** liked songs
 - **155** playlists
