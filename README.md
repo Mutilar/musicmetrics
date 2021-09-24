@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nostalgia - Leaves from the vine**
+- currently listening to **Drake - Way 2 Sexy (with Future & Young Thug)**
 
 - **920** liked songs
 - **155** playlists
