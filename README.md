@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Robert DeLong - Did It To Myself (feat. Lights)**
+- currently listening to **Kota the Friend - Long Beach**
 
 - **920** liked songs
-- **154** playlists
+- **155** playlists
 
 - top artists: 
 
