@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kota the Friend - Long Beach**
+- currently listening to **Kali Uchis - telepatía**
 
 - **920** liked songs
 - **155** playlists
