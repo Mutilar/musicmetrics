@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ed Sheeran - Shivers**
+- currently listening to **Nostalgia - Leaves from the vine**
 
 - **920** liked songs
 - **155** playlists
