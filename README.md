@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drake - Way 2 Sexy (with Future & Young Thug)**
+- currently listening to **Ariana Grande - God is a woman**
 
 - **920** liked songs
 - **155** playlists
