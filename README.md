@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - Need Someone**
+- currently listening to **Maeta - Teen Scene (ft Buddy) - Modestep Remix**
 
 - **920** liked songs
 - **155** playlists
