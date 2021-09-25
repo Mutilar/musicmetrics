@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ariana Grande - God is a woman**
+- currently listening to **Vorsa - self destructive**
 
 - **920** liked songs
 - **155** playlists
