@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Vorsa - self destructive**
+- currently listening to **Ollie - Need Someone**
 
 - **920** liked songs
 - **155** playlists
