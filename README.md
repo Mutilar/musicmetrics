@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Serhat Durmus - Silence of Reality**
+- currently listening to **Michaela Jaé - Something To Say**
 
 - **921** liked songs
 - **155** playlists
