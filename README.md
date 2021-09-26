@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Promoting Sounds - Artificial Love**
+- currently listening to **Col3man - late nights.vol.1**
 
 - **920** liked songs
 - **155** playlists
