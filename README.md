@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DVBBS - Tinted Eyes (feat. blackbear & 24kGoldn)**
+- currently listening to **DillanPonders - JUNGLE**
 
 - **920** liked songs
 - **155** playlists
