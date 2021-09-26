@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Riton - Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit**
+- currently listening to **DVBBS - Tinted Eyes (feat. blackbear & 24kGoldn)**
 
 - **920** liked songs
 - **155** playlists
