@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Calvin Harris - Promises (with Sam Smith)**
+- currently listening to **Black Atlass - Sin City**
 
 - **920** liked songs
 - **155** playlists
