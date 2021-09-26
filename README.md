@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Michaela Jaé - Something To Say**
+- currently listening to **Kelly Rowland - COFFEE**
 
 - **921** liked songs
 - **155** playlists
