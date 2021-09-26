@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Grimes - Go**
+- currently listening to **iMAGiNARY OTHER - Fly Away**
 
 - **920** liked songs
 - **155** playlists
