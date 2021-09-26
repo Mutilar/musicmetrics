@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Nostalgia - Leaves from the vine**
+- currently listening to **Promoting Sounds - Artificial Love**
 
 - **920** liked songs
 - **155** playlists
