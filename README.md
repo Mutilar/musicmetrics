@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Col3man - late nights.vol.1**
+- currently listening to **Calvin Harris - Promises (with Sam Smith)**
 
 - **920** liked songs
 - **155** playlists
