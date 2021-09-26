@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **iMAGiNARY OTHER - Fly Away**
+- currently listening to **Fleetwood Mac - Dreams - 2004 Remaster**
 
 - **920** liked songs
 - **155** playlists
