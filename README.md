@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DillanPonders - JUNGLE**
+- currently listening to **Serhat Durmus - Silence of Reality**
 
-- **920** liked songs
+- **921** liked songs
 - **155** playlists
 
 - top artists: 
