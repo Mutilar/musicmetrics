@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Fleetwood Mac - Dreams - 2004 Remaster**
+- currently listening to **Riton - Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit**
 
 - **920** liked songs
 - **155** playlists
