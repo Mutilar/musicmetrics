@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Just Juice - Love Myself**
+- currently listening to **rx Soul - 3 Nights**
 
-- **922** liked songs
+- **923** liked songs
 - **155** playlists
 
 - top artists: 
