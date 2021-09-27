@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Kelly Rowland - COFFEE**
+- currently listening to **347aidan - MEMORIES!**
 
-- **921** liked songs
+- **922** liked songs
 - **155** playlists
 
 - top artists: 
