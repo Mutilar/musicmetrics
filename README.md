@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Anzo - Hesitation**
+- currently listening to **6 Dogs - Indigo Daydream**
 
 - **922** liked songs
 - **155** playlists
