@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **6 Dogs - Indigo Daydream**
+- currently listening to **Just Juice - Love Myself**
 
 - **922** liked songs
 - **155** playlists
