@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **rx Soul - 3 Nights**
+- currently listening to **Duskus - Wild**
 
 - **923** liked songs
 - **155** playlists
