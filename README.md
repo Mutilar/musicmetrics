@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **347aidan - MEMORIES!**
+- currently listening to **Anzo - Hesitation**
 
 - **922** liked songs
 - **155** playlists
