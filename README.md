@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Big Dope P - So High**
+- currently listening to **iann dior - V12 (feat. Lil Uzi Vert)**
 
 - **923** liked songs
-- **155** playlists
+- **156** playlists
 
 - top artists: 
 
