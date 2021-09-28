@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duskus - Wild**
+- currently listening to **Chlöe - Have Mercy**
 
 - **923** liked songs
 - **155** playlists
