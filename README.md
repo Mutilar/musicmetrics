@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **iann dior - V12 (feat. Lil Uzi Vert)**
+- currently listening to **Cam Stacey - Free - Remix**
 
 - **923** liked songs
 - **156** playlists
