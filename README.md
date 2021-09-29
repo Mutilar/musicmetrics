@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cautious Clay - Shook**
+- currently listening to **vlush - Byof**
 
 - **923** liked songs
 - **156** playlists
