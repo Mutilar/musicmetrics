@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Michael Christmas - Get Up**
+- currently listening to **Santino Le Saint - Kill My High Freestyle - Bonus Track**
 
 - **923** liked songs
 - **156** playlists
