@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klangkarussell - Shipwreck**
+- currently listening to **Rascal Flatts - Life is a Highway**
 
 - **923** liked songs
 - **156** playlists
