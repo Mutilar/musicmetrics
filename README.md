@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Vorsa - self destructive**
+- currently listening to **Club 97 - Toxic**
 
 - **923** liked songs
 - **156** playlists
