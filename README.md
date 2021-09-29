@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ollie - Need Someone**
+- currently listening to **Zeds Dead - i think you're cool**
 
 - **923** liked songs
 - **156** playlists
