@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cam Stacey - Free - Remix**
+- currently listening to **Sarcastic Sounds - Laugh**
 
 - **923** liked songs
 - **156** playlists
