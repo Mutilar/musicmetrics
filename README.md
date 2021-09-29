@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Club 97 - Toxic**
+- currently listening to **convolk - do 2 much**
 
 - **923** liked songs
 - **156** playlists
