@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Shierro - Club Insomnia**
+- currently listening to **Ollie - Need Someone**
 
 - **923** liked songs
 - **156** playlists
