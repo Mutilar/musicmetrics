@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Blunts & Blondes - McQueen Dreams**
+- currently listening to **Michael Christmas - Get Up**
 
 - **923** liked songs
 - **156** playlists
