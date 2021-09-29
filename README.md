@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **BLXCKBUSTA - Sold My Soul for a Toyota Supra**
+- currently listening to **Sebjak - Rain**
 
 - **923** liked songs
 - **156** playlists
