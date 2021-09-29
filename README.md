@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sebjak - Rain**
+- currently listening to **Cautious Clay - Shook**
 
 - **923** liked songs
 - **156** playlists
