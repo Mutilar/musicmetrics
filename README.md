@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Rascal Flatts - Life is a Highway**
+- currently listening to **Blunts & Blondes - McQueen Dreams**
 
 - **923** liked songs
 - **156** playlists
