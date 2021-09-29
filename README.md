@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **merci, mercy - Winnie Crush**
+- currently listening to **Vorsa - self destructive**
 
 - **923** liked songs
 - **156** playlists
