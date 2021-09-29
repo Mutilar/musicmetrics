@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **vlush - Byof**
+- currently listening to **Klangkarussell - Shipwreck**
 
 - **923** liked songs
 - **156** playlists
