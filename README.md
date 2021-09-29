@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sarcastic Sounds - Laugh**
+- currently listening to **Slumberville - Aconcagua**
 
 - **923** liked songs
 - **156** playlists
