@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Slumberville - Aconcagua**
+- currently listening to **quickly, quickly - Lie**
 
 - **923** liked songs
 - **156** playlists
