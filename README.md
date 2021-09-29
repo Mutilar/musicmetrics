@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zeds Dead - i think you're cool**
+- currently listening to **BLXCKBUSTA - Sold My Soul for a Toyota Supra**
 
 - **923** liked songs
 - **156** playlists
