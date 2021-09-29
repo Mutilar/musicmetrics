@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Santino Le Saint - Kill My High Freestyle - Bonus Track**
+- currently listening to **merci, mercy - Winnie Crush**
 
 - **923** liked songs
 - **156** playlists
