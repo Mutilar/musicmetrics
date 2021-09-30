@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **L.Dre - Pacman**
+- currently listening to **Bauke Top - Call For Spring**
 
 - **923** liked songs
 - **156** playlists
