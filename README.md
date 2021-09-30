@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Sleepy Hallow - 2055**
+- currently listening to **Liam Huston - Melloton**
 
 - **923** liked songs
 - **156** playlists
