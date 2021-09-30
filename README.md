@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bauke Top - Call For Spring**
+- currently listening to **Myríad - Andira**
 
 - **923** liked songs
 - **156** playlists
