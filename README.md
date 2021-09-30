@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Liam Huston - Melloton**
+- currently listening to **L.Dre - Pacman**
 
 - **923** liked songs
 - **156** playlists
