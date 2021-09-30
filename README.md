@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **lokash - Peaches**
+- currently listening to **Klanglos - Nothing Can Save You, Accept Darkness**
 
 - **923** liked songs
 - **156** playlists
