@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Antonio Vivaldi - The Four Seasons - Winter in F Minor, RV. 297: I. Allegro non molto**
+- currently listening to **Dioh - Grapevine**
 
 - **923** liked songs
 - **156** playlists
