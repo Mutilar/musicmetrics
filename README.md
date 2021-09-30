@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Klanglos - Nothing Can Save You, Accept Darkness**
+- currently listening to **Sleepy Hallow - 2055**
 
 - **923** liked songs
 - **156** playlists
