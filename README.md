@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **convolk - do 2 much**
+- currently listening to **lokash - Peaches**
 
 - **923** liked songs
 - **156** playlists
