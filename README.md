@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Ouse - Why Did You Tell Me That You Loved Me?**
+- currently listening to **Fousheé - deep end**
 
 - **924** liked songs
 - **156** playlists
