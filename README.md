@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **ILOVEMAKONNEN - My Parade**
+- currently listening to **Ouse - Why Did You Tell Me That You Loved Me?**
 
-- **923** liked songs
+- **924** liked songs
 - **156** playlists
 
 - top artists: 
