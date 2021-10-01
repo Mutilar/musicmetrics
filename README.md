@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Fousheé - deep end**
+- currently listening to **Jackboy - What's Mine Is Yours (feat. Money Man)**
 
 - **924** liked songs
 - **156** playlists
