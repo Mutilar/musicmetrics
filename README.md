@@ -4,14 +4,14 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dioh - Grapevine**
+- currently listening to **ILOVEMAKONNEN - My Parade**
 
 - **923** liked songs
 - **156** playlists
 
 - top artists: 
 
-    ![artists](https://i.scdn.co/image/ab6761610000f178f9b1521167f731d99bd51a07) ![artists](https://i.scdn.co/image/ab6761610000f178489a895e62d62ab71f50775f) ![artists](https://i.scdn.co/image/ab6761610000f178230626abc059df28486f6591)
+    ![artists](https://i.scdn.co/image/ab6761610000f178f9b1521167f731d99bd51a07) ![artists](https://i.scdn.co/image/ab6761610000f178489a895e62d62ab71f50775f) ![artists](https://i.scdn.co/image/ab6761610000f178901b700b32a9996a37258995)
 
 <br></br>
 
