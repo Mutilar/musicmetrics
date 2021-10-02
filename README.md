@@ -4,10 +4,10 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Cam Stacey - Free - Remix**
+- currently listening to **Antonio Vivaldi - The Four Seasons - Winter in F Minor, RV. 297: I. Allegro non molto**
 
-- **924** liked songs
-- **156** playlists
+- **925** liked songs
+- **157** playlists
 
 - top artists: 
 
