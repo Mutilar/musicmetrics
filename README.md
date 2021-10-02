@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Jackboy - What's Mine Is Yours (feat. Money Man)**
+- currently listening to **Bizzy Banks - My Shit**
 
 - **924** liked songs
 - **156** playlists
