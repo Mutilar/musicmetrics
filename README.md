@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Serhat Durmus - Not Alone**
+- currently listening to **Serhat Durmus - Arres - John Dahlbäck Remix**
 
 - **924** liked songs
 - **156** playlists
