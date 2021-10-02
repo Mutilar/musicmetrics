@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Bizzy Banks - Outro**
+- currently listening to **Leavv - Flushing the Stairs**
 
 - **924** liked songs
 - **156** playlists
