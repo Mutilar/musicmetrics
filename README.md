@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Leavv - Flushing the Stairs**
+- currently listening to **Serhat Durmus - Not Alone**
 
 - **924** liked songs
 - **156** playlists
