@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Duskus - Wild**
+- currently listening to **Cam Stacey - Free - Remix**
 
 - **924** liked songs
 - **156** playlists
