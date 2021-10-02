@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Serhat Durmus - Arres - John Dahlbäck Remix**
+- currently listening to **Duskus - Wild**
 
 - **924** liked songs
 - **156** playlists
