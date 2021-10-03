@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **DIGY - Tragedy - NUDE Remix**
+- currently listening to **The Tech Thieves - Say Hello**
 
-- **925** liked songs
+- **926** liked songs
 - **157** playlists
 
 - top artists: 
