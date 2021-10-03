@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **The Tech Thieves - Say Hello**
+- currently listening to **Alex Isley - Good & Plenty**
 
 - **926** liked songs
 - **157** playlists
