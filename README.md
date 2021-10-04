@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Dua Lipa - Love Again**
+- currently listening to **Club 97 - Toxic**
 
 - **926** liked songs
 - **157** playlists
