@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Club 97 - Toxic**
+- currently listening to **D'african - Never Letting Go**
 
 - **926** liked songs
 - **157** playlists
