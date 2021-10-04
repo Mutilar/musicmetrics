@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Yedai - Lemonade**
+- currently listening to **Panteros666 - Baby F-16 - Radio Edit**
 
 - **926** liked songs
 - **157** playlists
