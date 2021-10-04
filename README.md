@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **D'african - Never Letting Go**
+- currently listening to **Big Dope P - So High**
 
 - **926** liked songs
 - **157** playlists
