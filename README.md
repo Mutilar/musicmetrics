@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **David Guetta - If You Really Love Me (How Will I Know)**
+- currently listening to **Dua Lipa - Love Again**
 
 - **926** liked songs
 - **157** playlists
