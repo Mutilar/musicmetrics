@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Triple One - Time After Time - Triple J Like a Version**
+- currently listening to **Triple One - Loverose**
 
 - **927** liked songs
 - **157** playlists
