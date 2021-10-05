@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Triple One - Showoff**
+- currently listening to **Triple One - BLOOD RAVE**
 
 - **927** liked songs
 - **157** playlists
