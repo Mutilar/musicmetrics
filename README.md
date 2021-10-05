@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Triple One - Loverose**
+- currently listening to **Triple One - Redline Reaper**
 
 - **927** liked songs
 - **157** playlists
