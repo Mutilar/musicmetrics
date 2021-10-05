@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Big Dope P - So High**
+- currently listening to **Triple One - Showoff**
 
-- **926** liked songs
+- **927** liked songs
 - **157** playlists
 
 - top artists: 
