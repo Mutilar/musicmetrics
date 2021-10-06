@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **J Balvin - Una Nota**
+- currently listening to **Maroon 5 - Lost**
 
 - **928** liked songs
 - **157** playlists
