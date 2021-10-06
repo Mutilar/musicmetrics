@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Yedai - Lemonade**
+- currently listening to **Louis The Child - So What (feat. A R I Z O N A)**
 
 - **928** liked songs
 - **157** playlists
