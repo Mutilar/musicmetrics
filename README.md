@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Serhat Durmus - La Câlin**
+- currently listening to **Zeds Dead - Frontlines**
 
-- **928** liked songs
+- **929** liked songs
 - **157** playlists
 
 - top artists: 
