@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Naïka - For Gerard**
+- currently listening to **Lofi Trax - Know Nothing**
 
 - **931** liked songs
 - **157** playlists
