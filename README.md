@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Louis The Child - So What (feat. A R I Z O N A)**
+- currently listening to **alt-J - U&ME**
 
 - **931** liked songs
 - **157** playlists
