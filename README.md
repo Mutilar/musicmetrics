@@ -4,9 +4,9 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Zeds Dead - Frontlines**
+- currently listening to **Young Thug - The London (feat. J. Cole & Travis Scott)**
 
-- **929** liked songs
+- **931** liked songs
 - **157** playlists
 
 - top artists: 
