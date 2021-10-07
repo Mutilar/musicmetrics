@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **alt-J - U&ME**
+- currently listening to **Drex Carter - Nandina**
 
 - **931** liked songs
 - **157** playlists
