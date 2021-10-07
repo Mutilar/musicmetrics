@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Young Thug - The London (feat. J. Cole & Travis Scott)**
+- currently listening to **Naïka - For Gerard**
 
 - **931** liked songs
 - **157** playlists
