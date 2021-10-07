@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Lofi Trax - Know Nothing**
+- currently listening to **Louis The Child - So What (feat. A R I Z O N A)**
 
 - **931** liked songs
 - **157** playlists
