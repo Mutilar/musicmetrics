@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **William Crooks - don't look at me!**
+- currently listening to **Chris Brown - Go Crazy**
 
 - **931** liked songs
 - **157** playlists
