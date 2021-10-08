@@ -4,7 +4,7 @@ Automated music metrics for fun, updated hourly.
 
 ## Spotify
 
-- currently listening to **Drex Carter - Nandina**
+- currently listening to **William Crooks - don't look at me!**
 
 - **931** liked songs
 - **157** playlists
